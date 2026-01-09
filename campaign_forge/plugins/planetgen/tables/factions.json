@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "archetypes": {
+    "ecological": [
+      {
+        "name": "The Thorn Choir",
+        "tags": [
+          "Spirits",
+          "Forest"
+        ],
+        "motives": [
+          "expand sacred groves",
+          "punish fire-makers",
+          "awaken old roots"
+        ]
+      },
+      {
+        "name": "The Sky-Herd",
+        "tags": [
+          "Nomads",
+          "Megafauna"
+        ],
+        "motives": [
+          "follow the thunderbeasts",
+          "protect calving grounds",
+          "raid salt licks"
+        ]
+      },
+      {
+        "name": "The Obsidian Tide",
+        "tags": [
+          "Volcanic",
+          "Cult"
+        ],
+        "motives": [
+          "feed the mountain",
+          "forge living glass",
+          "claim lava rivers"
+        ]
+      }
+    ],
+    "feudal": [
+      {
+        "name": "Crown of Nine Rivers",
+        "tags": [
+          "Kingdom"
+        ],
+        "motives": [
+          "secure trade arteries",
+          "bind vassals",
+          "extinguish bandit princes"
+        ]
+      },
+      {
+        "name": "The Sapphire Synod",
+        "tags": [
+          "Church",
+          "Scholars"
+        ],
+        "motives": [
+          "canonize miracles",
+          "control relic routes",
+          "censor forbidden maps"
+        ]
+      },
+      {
+        "name": "Iron Barony League",
+        "tags": [
+          "Nobles",
+          "Knights"
+        ],
+        "motives": [
+          "expand marches",
+          "collect tolls",
+          "hunt ancient war-engines"
+        ]
+      }
+    ],
+    "nation_state": [
+      {
+        "name": "Union of Smokestacks",
+        "tags": [
+          "Industry"
+        ],
+        "motives": [
+          "seize coalfields",
+          "standardize currency",
+          "break rival unions"
+        ]
+      },
+      {
+        "name": "Admiralty of the Salt Meridian",
+        "tags": [
+          "Navy",
+          "Trade"
+        ],
+        "motives": [
+          "secure chokepoints",
+          "charter colonies",
+          "suppress piracy"
+        ]
+      },
+      {
+        "name": "The Patent Court",
+        "tags": [
+          "Technocracy"
+        ],
+        "motives": [
+          "monopolize inventions",
+          "license airships",
+          "erase competitors"
+        ]
+      }
+    ],
+    "fragmented": [
+      {
+        "name": "The Red Water Compact",
+        "tags": [
+          "Survivors",
+          "Water"
+        ],
+        "motives": [
+          "control aquifers",
+          "ration passage",
+          "poison rival wells"
+        ]
+      },
+      {
+        "name": "Ashlight Caravanry",
+        "tags": [
+          "Nomads",
+          "Trade"
+        ],
+        "motives": [
+          "move salvage",
+          "map safe routes",
+          "sell batteries as saints"
+        ]
+      },
+      {
+        "name": "The Green Scar",
+        "tags": [
+          "Mutants",
+          "Blight"
+        ],
+        "motives": [
+          "spread spores",
+          "convert ruins",
+          "hunt the untainted"
+        ]
+      }
+    ]
+  }
+}

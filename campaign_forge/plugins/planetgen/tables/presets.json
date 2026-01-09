@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "presets": {
+    "primal": {
+      "name": "Zero Civilization / Primal",
+      "civ_level": 0,
+      "faction_style": "ecological",
+      "settlement_density": 0.0,
+      "ruins_density": 0.15,
+      "hazards": [],
+      "notes": "No permanent settlements; territorial megafauna, spirits, clans."
+    },
+    "fantasy": {
+      "name": "Fantasy World",
+      "civ_level": 1,
+      "faction_style": "feudal",
+      "settlement_density": 1.0,
+      "ruins_density": 0.25,
+      "hazards": [
+        "cursed",
+        "wild_magic"
+      ],
+      "notes": "Medieval assumptions; roads, castles, ruins of older ages."
+    },
+    "industrial": {
+      "name": "Industrial / Early Modern",
+      "civ_level": 2,
+      "faction_style": "nation_state",
+      "settlement_density": 1.6,
+      "ruins_density": 0.15,
+      "hazards": [
+        "pollution",
+        "labor_unrest"
+      ],
+      "notes": "Rail/roads; sharper borders; extraction and sprawl."
+    },
+    "apocalypse": {
+      "name": "Apocalypse / Post-Collapse",
+      "civ_level": 1,
+      "faction_style": "fragmented",
+      "settlement_density": 0.7,
+      "ruins_density": 0.55,
+      "hazards": [
+        "radiation",
+        "blight",
+        "flooded_coasts"
+      ],
+      "notes": "Ruined cities; broken infrastructure; hazard zones dominate."
+    }
+  }
+}
