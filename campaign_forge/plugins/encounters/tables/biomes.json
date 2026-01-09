@@ -1,0 +1,146 @@
+{
+  "Dungeon": {
+    "tags": [
+      "dark",
+      "confined",
+      "stone"
+    ],
+    "complications": [
+      "Low Light",
+      "Narrow Chokepoint",
+      "Unstable Masonry",
+      "Echoing Alarm",
+      "Toxic Mold"
+    ],
+    "tactical_edges": [
+      "Cover from pillars",
+      "Choke points",
+      "Lines of sight break often"
+    ],
+    "sensory_cues": [
+      "distant dripping",
+      "stale incense",
+      "scrape of metal on stone"
+    ]
+  },
+  "Forest": {
+    "tags": [
+      "dense",
+      "green",
+      "wild"
+    ],
+    "complications": [
+      "Thick Underbrush",
+      "Falling Branches",
+      "Hidden Snare",
+      "Sudden Fog",
+      "Bees / Swarm"
+    ],
+    "tactical_edges": [
+      "concealment",
+      "difficult terrain pockets",
+      "tree perches"
+    ],
+    "sensory_cues": [
+      "wet earth",
+      "bird alarm calls",
+      "mossy rot"
+    ]
+  },
+  "Swamp": {
+    "tags": [
+      "mud",
+      "water",
+      "insects"
+    ],
+    "complications": [
+      "Sucking Mud",
+      "Leech Water",
+      "Gas Pocket",
+      "Diseased Bites",
+      "Crocodile Slide"
+    ],
+    "tactical_edges": [
+      "partial cover from reeds",
+      "hazard zones",
+      "slow movement"
+    ],
+    "sensory_cues": [
+      "sweet rot",
+      "buzzing clouds",
+      "warm stagnant air"
+    ]
+  },
+  "Desert": {
+    "tags": [
+      "heat",
+      "open",
+      "sand"
+    ],
+    "complications": [
+      "Heat Haze",
+      "Sandstorm",
+      "Shifting Dunes",
+      "Mirage",
+      "Scorpion Nest"
+    ],
+    "tactical_edges": [
+      "long sightlines",
+      "no cover",
+      "sound carries"
+    ],
+    "sensory_cues": [
+      "dry grit",
+      "sun glare",
+      "whistling wind"
+    ]
+  },
+  "Urban": {
+    "tags": [
+      "crowds",
+      "alleys",
+      "vertical"
+    ],
+    "complications": [
+      "Bystanders",
+      "Guard Patrol",
+      "Rooftop Chase",
+      "Locked Door",
+      "Market Chaos"
+    ],
+    "tactical_edges": [
+      "verticality",
+      "improvised cover",
+      "escape routes"
+    ],
+    "sensory_cues": [
+      "shouted bargains",
+      "smoke and spice",
+      "footsteps on cobble"
+    ]
+  },
+  "Cavern": {
+    "tags": [
+      "natural",
+      "wet",
+      "uneven"
+    ],
+    "complications": [
+      "Slippery Ledge",
+      "Falling Stalactites",
+      "Bat Swarm",
+      "Underground Stream",
+      "Thin Air"
+    ],
+    "tactical_edges": [
+      "uneven elevations",
+      "darkness",
+      "ambush nooks"
+    ],
+    "sensory_cues": [
+      "cold damp",
+      "water roar",
+      "stone dust"
+    ]
+  }
+}

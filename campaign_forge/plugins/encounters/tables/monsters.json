@@ -1,0 +1,241 @@
+[
+  {
+    "id": "thug",
+    "name": "Thug",
+    "kind": "Humanoid",
+    "roles": [
+      "frontliner"
+    ],
+    "cr": [
+      0.5,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "bandit",
+      "urban",
+      "dungeon"
+    ]
+  },
+  {
+    "id": "scout",
+    "name": "Scout",
+    "kind": "Humanoid",
+    "roles": [
+      "skirmisher",
+      "ranged"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1,
+      2
+    ],
+    "tags": [
+      "forest",
+      "urban",
+      "bandit"
+    ]
+  },
+  {
+    "id": "acolyte",
+    "name": "Acolyte",
+    "kind": "Humanoid",
+    "roles": [
+      "support",
+      "caster"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1,
+      2
+    ],
+    "tags": [
+      "cult",
+      "dungeon"
+    ]
+  },
+  {
+    "id": "fanatic",
+    "name": "Fanatic",
+    "kind": "Humanoid",
+    "roles": [
+      "leader",
+      "caster"
+    ],
+    "cr": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "tags": [
+      "cult",
+      "dungeon"
+    ]
+  },
+  {
+    "id": "guard",
+    "name": "Guard",
+    "kind": "Humanoid",
+    "roles": [
+      "frontliner"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1,
+      2
+    ],
+    "tags": [
+      "militia",
+      "urban",
+      "dungeon"
+    ]
+  },
+  {
+    "id": "wolfpack",
+    "name": "Wolf Pack",
+    "kind": "Beast",
+    "roles": [
+      "skirmisher"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1,
+      2
+    ],
+    "tags": [
+      "forest",
+      "cavern"
+    ]
+  },
+  {
+    "id": "giantspider",
+    "name": "Giant Spider",
+    "kind": "Beast",
+    "roles": [
+      "controller"
+    ],
+    "cr": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tags": [
+      "forest",
+      "swamp",
+      "cavern"
+    ]
+  },
+  {
+    "id": "croc",
+    "name": "Crocodile",
+    "kind": "Beast",
+    "roles": [
+      "frontliner"
+    ],
+    "cr": [
+      0.5,
+      1,
+      2,
+      3
+    ],
+    "tags": [
+      "swamp"
+    ]
+  },
+  {
+    "id": "skeletons",
+    "name": "Skeleton Mob",
+    "kind": "Undead",
+    "roles": [
+      "minion"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1
+    ],
+    "tags": [
+      "undead",
+      "dungeon",
+      "cavern"
+    ]
+  },
+  {
+    "id": "zombies",
+    "name": "Zombie Horde",
+    "kind": "Undead",
+    "roles": [
+      "frontliner"
+    ],
+    "cr": [
+      0.25,
+      0.5,
+      1
+    ],
+    "tags": [
+      "undead",
+      "dungeon"
+    ]
+  },
+  {
+    "id": "wight",
+    "name": "Wight Captain",
+    "kind": "Undead",
+    "roles": [
+      "leader"
+    ],
+    "cr": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "tags": [
+      "undead",
+      "dungeon",
+      "cavern"
+    ]
+  },
+  {
+    "id": "dustmephit",
+    "name": "Dust Mephits",
+    "kind": "Elemental",
+    "roles": [
+      "skirmisher"
+    ],
+    "cr": [
+      0.5,
+      1,
+      2
+    ],
+    "tags": [
+      "desert",
+      "cavern"
+    ]
+  },
+  {
+    "id": "magma",
+    "name": "Magma Brute",
+    "kind": "Elemental",
+    "roles": [
+      "frontliner"
+    ],
+    "cr": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "tags": [
+      "cavern",
+      "dungeon"
+    ]
+  }
+]

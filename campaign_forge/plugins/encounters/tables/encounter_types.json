@@ -1,0 +1,98 @@
+[
+  {
+    "id": "patrol",
+    "name": "Patrol / Sweep",
+    "weights": {
+      "Dungeon": 4,
+      "Urban": 4,
+      "Forest": 3,
+      "Swamp": 3,
+      "Desert": 2,
+      "Cavern": 3
+    }
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush",
+    "weights": {
+      "Forest": 4,
+      "Swamp": 4,
+      "Dungeon": 3,
+      "Urban": 3,
+      "Desert": 2,
+      "Cavern": 4
+    }
+  },
+  {
+    "id": "guardpost",
+    "name": "Guard Post / Checkpoint",
+    "weights": {
+      "Dungeon": 4,
+      "Urban": 4,
+      "Forest": 2,
+      "Swamp": 2,
+      "Desert": 2,
+      "Cavern": 3
+    }
+  },
+  {
+    "id": "ritual",
+    "name": "Ritual / Operation",
+    "weights": {
+      "Dungeon": 4,
+      "Cavern": 3,
+      "Forest": 2,
+      "Swamp": 2,
+      "Urban": 2,
+      "Desert": 2
+    }
+  },
+  {
+    "id": "scavengers",
+    "name": "Scavengers / Looters",
+    "weights": {
+      "Urban": 4,
+      "Dungeon": 3,
+      "Forest": 3,
+      "Swamp": 2,
+      "Desert": 3,
+      "Cavern": 2
+    }
+  },
+  {
+    "id": "hazard",
+    "name": "Hazard + Creatures",
+    "weights": {
+      "Cavern": 4,
+      "Swamp": 3,
+      "Desert": 3,
+      "Dungeon": 3,
+      "Forest": 3,
+      "Urban": 2
+    }
+  },
+  {
+    "id": "social",
+    "name": "Social / Negotiation Under Threat",
+    "weights": {
+      "Urban": 5,
+      "Dungeon": 2,
+      "Forest": 3,
+      "Swamp": 2,
+      "Desert": 2,
+      "Cavern": 2
+    }
+  },
+  {
+    "id": "chase",
+    "name": "Chase / Pursuit",
+    "weights": {
+      "Urban": 4,
+      "Forest": 3,
+      "Swamp": 2,
+      "Desert": 3,
+      "Dungeon": 2,
+      "Cavern": 2
+    }
+  }
+]

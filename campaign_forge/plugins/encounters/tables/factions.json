@@ -1,0 +1,102 @@
+[
+  {
+    "id": "bandits",
+    "name": "Bandits / Raiders",
+    "traits": [
+      "pragmatic",
+      "skittish",
+      "opportunistic"
+    ],
+    "morale_base": 7,
+    "tactics": [
+      "hit-and-run",
+      "take hostages",
+      "flee with loot"
+    ],
+    "parley": [
+      "bribe",
+      "intimidation",
+      "show of force"
+    ]
+  },
+  {
+    "id": "cult",
+    "name": "Cult Cell",
+    "traits": [
+      "fanatical",
+      "secretive",
+      "ritual-driven"
+    ],
+    "morale_base": 8,
+    "tactics": [
+      "protect the ritual",
+      "use darkness",
+      "sacrifice a minion"
+    ],
+    "parley": [
+      "deception",
+      "blasphemous bargains",
+      "stall for time"
+    ]
+  },
+  {
+    "id": "militia",
+    "name": "Militia / Watch",
+    "traits": [
+      "disciplined",
+      "lawful",
+      "risk-averse"
+    ],
+    "morale_base": 9,
+    "tactics": [
+      "form a line",
+      "call reinforcements",
+      "take prisoners"
+    ],
+    "parley": [
+      "authority",
+      "legal threats",
+      "negotiation"
+    ]
+  },
+  {
+    "id": "undead",
+    "name": "Undead Presence",
+    "traits": [
+      "mindless",
+      "relentless",
+      "cold"
+    ],
+    "morale_base": 12,
+    "tactics": [
+      "no retreat",
+      "surround",
+      "target the living"
+    ],
+    "parley": [
+      "none",
+      "turning",
+      "banishment"
+    ]
+  },
+  {
+    "id": "monsters",
+    "name": "Territorial Monsters",
+    "traits": [
+      "hungry",
+      "animal-cunning",
+      "territorial"
+    ],
+    "morale_base": 8,
+    "tactics": [
+      "pack tactics",
+      "drag away prey",
+      "retreat to lair"
+    ],
+    "parley": [
+      "food offering",
+      "back away slowly",
+      "dominance display"
+    ]
+  }
+]
