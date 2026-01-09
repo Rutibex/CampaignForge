@@ -1,0 +1,607 @@
+{
+  "hooks": [
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Threat",
+      "summary": "Caravans vanish along the {terrain} road; survivors speak of {omen}.",
+      "presenter": "a shaken guild factor",
+      "immediate_question": "What is taking them \u2014 and why now?",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Payment",
+      "summary": "A {patron} offers {reward} for retrieving {macguffin} from {location_hint}.",
+      "presenter": "the patron\u2019s courier",
+      "immediate_question": "Why is the patron afraid to go themselves?",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "grim",
+        "neutral"
+      ],
+      "type": "Moral Obligation",
+      "summary": "A {community} begs for help after {disaster}; the cause points toward {location_hint}.",
+      "presenter": "a local elder",
+      "immediate_question": "Who benefits from the suffering?",
+      "weight": 2
+    },
+    {
+      "tone": [
+        "pulp",
+        "neutral"
+      ],
+      "type": "Mystery",
+      "summary": "A map fragment is found inside {odd_container}, marked with {marking}.",
+      "presenter": "an excited fence",
+      "immediate_question": "What does the mark warn against?",
+      "weight": 2
+    },
+    {
+      "tone": [
+        "weird"
+      ],
+      "type": "Unnatural Sign",
+      "summary": "At midnight, {weird_sign} appears above {landmark}; those who watch too long dream of {dream}.",
+      "presenter": "a sleepless astrologer",
+      "immediate_question": "Is the sign an invitation or a trap?",
+      "weight": 2
+    }
+  ],
+  "locations": [
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Dungeon",
+      "name": "The {adjective} {site}",
+      "theme": [
+        "{theme1}",
+        "{theme2}"
+      ],
+      "entry_condition": "Accessible only when {condition}.",
+      "dominant_feature": "{feature}.",
+      "weight": 4
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Settlement",
+      "name": "{settlement_name}",
+      "theme": [
+        "{theme1}",
+        "{theme2}"
+      ],
+      "entry_condition": "Visitors must {entry_rule}.",
+      "dominant_feature": "{feature}.",
+      "weight": 2
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Wilderness Site",
+      "name": "{wilderness_name}",
+      "theme": [
+        "{theme1}",
+        "{theme2}"
+      ],
+      "entry_condition": "Reached by {travel_hazard}.",
+      "dominant_feature": "{feature}.",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "weird"
+      ],
+      "type": "Pocket Realm",
+      "name": "{realm_name}",
+      "theme": [
+        "{theme1}",
+        "{theme2}"
+      ],
+      "entry_condition": "Entered by {weird_entry}.",
+      "dominant_feature": "{feature}.",
+      "weight": 2
+    }
+  ],
+  "antagonists": [
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Faction",
+      "name": "The {faction_epithet} {faction_noun}",
+      "goal": "{goal}",
+      "method": "{method}",
+      "weakness": "{weakness}",
+      "visible_sign": "{sign}",
+      "weight": 4
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Individual",
+      "name": "{villain_name}, the {villain_title}",
+      "goal": "{goal}",
+      "method": "{method}",
+      "weakness": "{weakness}",
+      "visible_sign": "{sign}",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Monster",
+      "name": "A {monster_adj} {monster}",
+      "goal": "{goal}",
+      "method": "{method}",
+      "weakness": "{weakness}",
+      "visible_sign": "{sign}",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "weird",
+        "grim"
+      ],
+      "type": "Supernatural Influence",
+      "name": "The {influence}",
+      "goal": "{goal}",
+      "method": "{method}",
+      "weakness": "{weakness}",
+      "visible_sign": "{sign}",
+      "weight": 2
+    }
+  ],
+  "twists": [
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "Allegiance Reversal",
+      "reveal": "The {presenter} serves the antagonist and is steering the party into {trap}.",
+      "choice_pressure": "Expose them now or use them to reach the true target.",
+      "foreshadow": "A slip of the tongue about {clue}.",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "type": "False Assumption",
+      "reveal": "The {macguffin} is not the prize \u2014 it\u2019s a key that unlocks {bigger_threat}.",
+      "choice_pressure": "Take it and risk the lock breaking, or leave it and lose leverage.",
+      "foreshadow": "Old records mention {hint}.",
+      "weight": 3
+    },
+    {
+      "tone": [
+        "grim",
+        "neutral"
+      ],
+      "type": "Moral Inversion",
+      "reveal": "Stopping the plan saves lives now but causes {long_cost}.",
+      "choice_pressure": "Choose who suffers and when.",
+      "foreshadow": "Unnatural prosperity in {community}.",
+      "weight": 2
+    },
+    {
+      "tone": [
+        "pulp"
+      ],
+      "type": "Escalation",
+      "reveal": "A rival crew arrives with a writ from {authority}, claiming jurisdiction.",
+      "choice_pressure": "Race, negotiate, or sabotage.",
+      "foreshadow": "Bootprints and campfire ash near the route.",
+      "weight": 2
+    },
+    {
+      "tone": [
+        "weird"
+      ],
+      "type": "Reality Glitch",
+      "reveal": "Time loops at {landmark}; each loop advances the clock anyway.",
+      "choice_pressure": "Exploit loops for prep or break them at a cost.",
+      "foreshadow": "Deja vu and repeated birdsong.",
+      "weight": 2
+    }
+  ],
+  "clocks": [
+    {
+      "tone": [
+        "any"
+      ],
+      "scope": [
+        "one_session"
+      ],
+      "stages": [
+        "Rumors spread",
+        "A clear victim is targeted",
+        "A public incident forces action",
+        "Point of no return",
+        "Aftermath state"
+      ],
+      "advance_triggers": [
+        "each in-game day",
+        "a major failure",
+        "ignoring a warning"
+      ],
+      "weight": 4
+    },
+    {
+      "tone": [
+        "any"
+      ],
+      "scope": [
+        "mini_arc"
+      ],
+      "stages": [
+        "Whispers and signs",
+        "Disappearances increase",
+        "The antagonist consolidates power",
+        "Open conflict erupts",
+        "No-return threshold",
+        "Fallout reshapes the region"
+      ],
+      "advance_triggers": [
+        "each downtime",
+        "each missed lead",
+        "each major setback"
+      ],
+      "weight": 4
+    },
+    {
+      "tone": [
+        "weird"
+      ],
+      "scope": [
+        "one_session",
+        "mini_arc"
+      ],
+      "stages": [
+        "The sign appears",
+        "Dreams spread like spores",
+        "The boundary thins",
+        "The world rewrites a rule",
+        "Irreversible change"
+      ],
+      "advance_triggers": [
+        "each sunset",
+        "sleeping in the area",
+        "using magic"
+      ],
+      "weight": 2
+    }
+  ],
+  "fragments": {
+    "terrain": [
+      "marsh",
+      "high pass",
+      "forest",
+      "salt flats",
+      "river delta",
+      "old king\u2019s road",
+      "peat moor",
+      "canalway"
+    ],
+    "omen": [
+      "lights under the water",
+      "singing in the fog",
+      "hoofprints that end mid-step",
+      "ash falling on clear nights",
+      "a bell tolling where no bell stands"
+    ],
+    "patron": [
+      "retired adventurer",
+      "minor noble",
+      "temple treasurer",
+      "arcane university",
+      "merchant cartel",
+      "smugglers\u2019 syndicate"
+    ],
+    "reward": [
+      "a satchel of silver",
+      "a deed to land",
+      "a pardon",
+      "a rare spell scroll",
+      "a crate of trade bars",
+      "a favor owed publicly"
+    ],
+    "location_hint": [
+      "a flooded reliquary",
+      "a tower that leans against the moon",
+      "a sealed mine under the chapel",
+      "the black orchard",
+      "the drowned gatehouse"
+    ],
+    "community": [
+      "river hamlet",
+      "border village",
+      "pilgrims\u2019 camp",
+      "mining town",
+      "salt-port"
+    ],
+    "disaster": [
+      "a sickness of waking nightmares",
+      "a rash of disappearances",
+      "fields turning to glass",
+      "livestock born with seals on their tongues",
+      "a fire that won\u2019t go out"
+    ],
+    "odd_container": [
+      "a coffin",
+      "a wine cask",
+      "a hollow statue",
+      "a sharkskin folio",
+      "a child\u2019s storybook"
+    ],
+    "marking": [
+      "a red spiral",
+      "a triangle of nails",
+      "a crown split in two",
+      "a map of stars",
+      "a smear of luminous algae"
+    ],
+    "weird_sign": [
+      "a second moon",
+      "letters made of cloud",
+      "a staircase of light",
+      "a rain of warm sand",
+      "a silent aurora"
+    ],
+    "landmark": [
+      "the old bridge",
+      "the chapel hill",
+      "the lonely lighthouse",
+      "the quarry",
+      "the standing stones"
+    ],
+    "dream": [
+      "a door beneath the lake",
+      "a city made of teeth",
+      "a voice counting backward",
+      "a banquet of shadows",
+      "a crown sinking into mud"
+    ],
+    "adjective": [
+      "Flooded",
+      "Shattered",
+      "Hollow",
+      "Cinder",
+      "Ivory",
+      "Starless",
+      "Thornbound",
+      "Sighing",
+      "Brass",
+      "Mournful"
+    ],
+    "site": [
+      "Reliquary",
+      "Catacombs",
+      "Vault",
+      "Observatory",
+      "Abbey",
+      "Cistern",
+      "Manufactory",
+      "Ossuary",
+      "Warren",
+      "Sanctum"
+    ],
+    "theme1": [
+      "Decay",
+      "Forbidden Faith",
+      "Greed",
+      "Lost History",
+      "Old War",
+      "Plague",
+      "Ambition",
+      "Hunger"
+    ],
+    "theme2": [
+      "Fire",
+      "Water",
+      "Roots",
+      "Mirrors",
+      "Dust",
+      "Crows",
+      "Salt",
+      "Clockwork",
+      "Glass"
+    ],
+    "condition": [
+      "the tide is low",
+      "the bells ring thrice",
+      "the fog turns blue",
+      "the sun sets behind the hill",
+      "the river runs backward"
+    ],
+    "feature": [
+      "collapsed sanctum filled with brackish water",
+      "a spiral stair carved with names",
+      "a shrine that weeps black resin",
+      "rooms stitched together from different eras",
+      "a vault door sealed by living vines"
+    ],
+    "settlement_name": [
+      "Kettleford",
+      "Brinewatch",
+      "Hearthmere",
+      "Gallowsmere",
+      "Sablewick",
+      "Tidehollow"
+    ],
+    "entry_rule": [
+      "surrender all blades at the gate",
+      "answer a riddle at the bridge",
+      "wear a white ribbon",
+      "swear not to speak a certain name",
+      "pay the bell-tax"
+    ],
+    "wilderness_name": [
+      "The Black Orchard",
+      "The Crooked Fen",
+      "The Red Cairn Field",
+      "The Singing Quarry",
+      "The Salted Heath"
+    ],
+    "travel_hazard": [
+      "a sinkhole trail",
+      "bandit checkpoints",
+      "a blizzard cut",
+      "a cursed ferry",
+      "a bridge of bones"
+    ],
+    "realm_name": [
+      "The Vestibule of Echoes",
+      "The Lamplit Backside of Noon",
+      "The Orchard Behind Mirrors",
+      "The Unfinished Map"
+    ],
+    "weird_entry": [
+      "speaking a vow into a keyhole",
+      "walking backward through a doorway",
+      "sleeping under the landmark",
+      "burning the map fragment"
+    ],
+    "faction_epithet": [
+      "Cinder",
+      "Hollow",
+      "Iron",
+      "Veiled",
+      "Amber",
+      "Sable",
+      "Gilded",
+      "Worm"
+    ],
+    "faction_noun": [
+      "Hand",
+      "Choir",
+      "Covenant",
+      "Order",
+      "Company",
+      "Synod",
+      "Circle",
+      "Ledger"
+    ],
+    "goal": [
+      "secure a relic before rivals learn of it",
+      "erase a witness list",
+      "open a sealed gate",
+      "convert the locals quietly",
+      "pay off a debt with blood",
+      "hide a catastrophic mistake"
+    ],
+    "method": [
+      "arson and intimidation",
+      "bribery and blackmail",
+      "ritual work and kidnappings",
+      "bureaucratic pressure",
+      "mercenaries and traps",
+      "poison and propaganda"
+    ],
+    "weakness": [
+      "a schism between zealots and pragmatists",
+      "a reliance on one fragile lie",
+      "an internal informant",
+      "poor logistics",
+      "superstition about holy symbols"
+    ],
+    "sign": [
+      "burned symbols left behind",
+      "coins stamped with a black star",
+      "threads of red wax on doors",
+      "salt circles in alleys",
+      "a lullaby everyone suddenly knows"
+    ],
+    "villain_name": [
+      "Ser Caldrin",
+      "Mara Vell",
+      "Othric Pike",
+      "Sister Jun",
+      "Varko Renn",
+      "Elowen Greave"
+    ],
+    "villain_title": [
+      "Ash-Broker",
+      "Tide-Seer",
+      "Last Marshal",
+      "Lantern Witch",
+      "Ruin Auditor",
+      "Bone Cartographer"
+    ],
+    "monster_adj": [
+      "hunger-mad",
+      "mist-born",
+      "brine-swollen",
+      "thorn-plated",
+      "mirror-eyed",
+      "coal-skinned"
+    ],
+    "monster": [
+      "ogre",
+      "wight",
+      "basilisk",
+      "manticore",
+      "wyrmlet",
+      "shoggothling"
+    ],
+    "influence": [
+      "Quiet Hunger",
+      "Mirror Fever",
+      "The Counting Wind",
+      "The Root-Mind",
+      "The Salt Oath"
+    ],
+    "trap": [
+      "a dead-end vault",
+      "a staged ambush",
+      "a cursed bargain",
+      "a false safehouse",
+      "a jurisdictional snare"
+    ],
+    "clue": [
+      "the map fragment",
+      "the low-tide schedule",
+      "the rival crew\u2019s name",
+      "the shrine\u2019s icon",
+      "the burned symbols"
+    ],
+    "bigger_threat": [
+      "a sleeping war-engine",
+      "a plague bound in a jar",
+      "a gate to a starving god",
+      "a treaty that must not be read",
+      "a city drowned on purpose"
+    ],
+    "hint": [
+      "a king who sealed it for love",
+      "a saint who lied",
+      "a war nobody won",
+      "a cartographer who went blind",
+      "a bell that rang once too often"
+    ],
+    "long_cost": [
+      "next winter\u2019s famine",
+      "a pact with something worse",
+      "the town\u2019s water turning bitter",
+      "the dead refusing to sleep",
+      "the region\u2019s only bridge collapsing"
+    ],
+    "authority": [
+      "the Baron\u2019s court",
+      "the Lantern Wardens",
+      "the Salt Bureau",
+      "the Temple Synod",
+      "the Free Charter League"
+    ]
+  }
+}
