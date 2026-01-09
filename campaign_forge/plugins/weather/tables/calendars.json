@@ -1,0 +1,173 @@
+{
+  "calendars": [
+    {
+      "id": "gregorian_365",
+      "name": "Gregorian 365 (Fantasy-Friendly)",
+      "months": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+      "days_in_month": [
+        31,
+        28,
+        31,
+        30,
+        31,
+        30,
+        31,
+        31,
+        30,
+        31,
+        30,
+        31
+      ],
+      "weekday_names": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ]
+    },
+    {
+      "id": "fantasy_360",
+      "name": "Fantasy 360 (12×30)",
+      "months": [
+        "Dawnwane",
+        "Greenswell",
+        "Highsun",
+        "Emberrise",
+        "Goldleaf",
+        "Frostwane",
+        "Deepfrost",
+        "Thawturn",
+        "Rainmoot",
+        "Bloomtide",
+        "Sunswane",
+        "Nightfall"
+      ],
+      "days_in_month": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30
+      ],
+      "weekday_names": [
+        "Mo",
+        "Tu",
+        "We",
+        "Th",
+        "Fr",
+        "Sa",
+        "Su"
+      ]
+    },
+    {
+      "id": "lunar_364",
+      "name": "Lunar 364 (13×28)",
+      "months": [
+        "Wolfmoon",
+        "Snowmoon",
+        "Thawmoon",
+        "Seedmoon",
+        "Haremoon",
+        "Rosemoon",
+        "Haymoon",
+        "Stormmoon",
+        "Harvestmoon",
+        "Hallowmoon",
+        "Frostmoon",
+        "Darkmoon",
+        "Yearsend"
+      ],
+      "days_in_month": [
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28,
+        28
+      ],
+      "weekday_names": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ]
+    },
+    {
+      "id": "ancient_360_10day",
+      "name": "Ancient 360 (12×30, 10-day week)",
+      "months": [
+        "Aurum",
+        "Cinis",
+        "Flos",
+        "Imber",
+        "Zeph",
+        "Sol",
+        "Vita",
+        "Ignis",
+        "Nox",
+        "Frigus",
+        "Umbra",
+        "Terminus"
+      ],
+      "days_in_month": [
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30,
+        30
+      ],
+      "weekday_names": [
+        "Primeday",
+        "Twoday",
+        "Threeday",
+        "Fourday",
+        "Fiveday",
+        "Sixday",
+        "Sevenday",
+        "Eightday",
+        "Nineday",
+        "Tenday"
+      ]
+    }
+  ]
+}

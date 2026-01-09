@@ -1,0 +1,401 @@
+{
+  "extremes": [
+    {
+      "id": "heatwave",
+      "name": "Heatwave",
+      "weight": 1.0,
+      "season": "summer",
+      "requires_hot": true,
+      "min_days": 3,
+      "max_days": 7,
+      "tags": [
+        "Heat:Severe",
+        "Travel:Hard"
+      ],
+      "note": "Heat lingers. Water spoilage accelerates; exhaustion checks become common.",
+      "effects": [
+        "Water consumption doubles",
+        "Creatures seek shade; midday activity drops",
+        "Open flame risks increase"
+      ],
+      "mods": {
+        "temp_delta": 3.5,
+        "force_condition": "Clear",
+        "wind_mul": 0.9
+      }
+    },
+    {
+      "id": "cold_snap",
+      "name": "Cold Snap",
+      "weight": 0.9,
+      "season": "winter",
+      "requires_cold": true,
+      "min_days": 2,
+      "max_days": 6,
+      "tags": [
+        "Cold:Severe",
+        "Travel:Hard"
+      ],
+      "note": "A sudden bite of cold snaps leather, numbs fingers, and kills small crops.",
+      "effects": [
+        "Exposure saves more frequent",
+        "Thin ice forms on still water",
+        "Night watches become dangerous"
+      ],
+      "mods": {
+        "temp_delta": -5.0,
+        "force_condition": "Clear"
+      }
+    },
+    {
+      "id": "blizzard",
+      "name": "Blizzard",
+      "weight": 0.8,
+      "season": "winter",
+      "requires_cold": true,
+      "min_days": 2,
+      "max_days": 5,
+      "tags": [
+        "Weather:Snow",
+        "Visibility:Poor",
+        "Travel:Very Hard"
+      ],
+      "note": "Whiteout conditions. Trails vanish; sound carries strangely.",
+      "effects": [
+        "Travel reduced to a crawl",
+        "Ranged attacks impaired",
+        "Tracks are quickly erased"
+      ],
+      "mods": {
+        "force_condition": "Snow",
+        "force_precip_type": "Snow",
+        "force_precip_intensity": "Heavy",
+        "wind_mul": 1.6,
+        "temp_delta": -2.0
+      }
+    },
+    {
+      "id": "whiteout",
+      "name": "Whiteout",
+      "weight": 0.6,
+      "season": "winter",
+      "requires_cold": true,
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Visibility:Poor",
+        "Travel:Very Hard"
+      ],
+      "note": "No horizon, no contrast. Even veterans get lost.",
+      "effects": [
+        "Navigation checks at disadvantage",
+        "Short-range ambushes become common"
+      ],
+      "mods": {
+        "force_condition": "Snow",
+        "force_precip_type": "Snow",
+        "force_precip_intensity": "Moderate",
+        "wind_mul": 1.3
+      }
+    },
+    {
+      "id": "flood",
+      "name": "River Flooding",
+      "weight": 0.9,
+      "season": "spring",
+      "min_days": 2,
+      "max_days": 6,
+      "tags": [
+        "Travel:Hard"
+      ],
+      "note": "Rivers swell. Lowlands become marsh; bridges are stressed.",
+      "effects": [
+        "Fords become impassable",
+        "Some roads wash out",
+        "Camps must be on high ground"
+      ],
+      "mods": {
+        "force_precip_type": "Rain",
+        "force_precip_intensity": "Heavy",
+        "wind_mul": 1.1
+      }
+    },
+    {
+      "id": "flash_flood",
+      "name": "Flash Flood",
+      "weight": 0.5,
+      "season": "summer",
+      "min_days": 1,
+      "max_days": 2,
+      "tags": [
+        "Travel:Very Hard",
+        "Visibility:Poor"
+      ],
+      "note": "Water comes all at once, roaring through gullies and dry channels.",
+      "effects": [
+        "Canyons become deadly",
+        "Sudden debris hazards",
+        "Tracks destroyed"
+      ],
+      "mods": {
+        "force_condition": "Storm",
+        "force_precip_type": "Rain",
+        "force_precip_intensity": "Violent",
+        "wind_mul": 1.3
+      }
+    },
+    {
+      "id": "drought",
+      "name": "Drought",
+      "weight": 0.8,
+      "season": "summer",
+      "min_days": 5,
+      "max_days": 10,
+      "tags": [
+        "Travel:Hard"
+      ],
+      "note": "Dry stretch. Streams thin; animals push toward wells.",
+      "effects": [
+        "Water sources shrink",
+        "Foraging checks harder",
+        "Wildfire risk increases"
+      ],
+      "mods": {
+        "force_condition": "Clear",
+        "temp_delta": 1.5,
+        "wind_mul": 1.1
+      }
+    },
+    {
+      "id": "windstorm",
+      "name": "Windstorm",
+      "weight": 0.9,
+      "season": "autumn",
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Wind:Gale",
+        "Travel:Hard"
+      ],
+      "note": "Canvas snaps, trees creak, and loose things vanish into the distance.",
+      "effects": [
+        "Ranged attacks impaired",
+        "Flying becomes risky",
+        "Noise masks movement"
+      ],
+      "mods": {
+        "wind_mul": 1.8,
+        "force_condition": "Cloudy"
+      }
+    },
+    {
+      "id": "cyclone",
+      "name": "Coastal Cyclone",
+      "weight": 0.5,
+      "season": "autumn",
+      "min_days": 2,
+      "max_days": 4,
+      "tags": [
+        "Travel:Very Hard",
+        "Wind:Gale",
+        "Visibility:Poor"
+      ],
+      "note": "A tight spiral of wind and water batters the coast.",
+      "effects": [
+        "Ports close; ships grounded",
+        "Storm surge floods low districts",
+        "Shelter becomes priority"
+      ],
+      "mods": {
+        "force_condition": "Storm",
+        "force_precip_type": "Rain",
+        "force_precip_intensity": "Violent",
+        "wind_mul": 2.0
+      }
+    },
+    {
+      "id": "duststorm",
+      "name": "Duststorm",
+      "weight": 0.7,
+      "season": "summer",
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Visibility:Poor",
+        "Travel:Hard"
+      ],
+      "note": "Dust finds every seam. Mouths dry; eyes burn.",
+      "effects": [
+        "Visibility reduced to tens of feet",
+        "Tracking becomes difficult",
+        "Mechanical devices clog"
+      ],
+      "mods": {
+        "force_condition": "Dust",
+        "wind_mul": 1.7
+      }
+    },
+    {
+      "id": "ashfall",
+      "name": "Ashfall",
+      "weight": 0.5,
+      "season": "any",
+      "min_days": 1,
+      "max_days": 4,
+      "tags": [
+        "Visibility:Poor",
+        "Travel:Hard"
+      ],
+      "note": "Fine ash drifts down. Breathing cloth helps; water tastes of stone.",
+      "effects": [
+        "Food and water contamination",
+        "Footprints mark like charcoal",
+        "Firelight dims"
+      ],
+      "mods": {
+        "force_precip_type": "Ash",
+        "force_precip_intensity": "Moderate",
+        "force_condition": "Cloudy",
+        "temp_delta": -1.0
+      }
+    },
+    {
+      "id": "blood_rain",
+      "name": "Blood Rain Omen",
+      "weight": 0.15,
+      "season": "any",
+      "min_days": 1,
+      "max_days": 2,
+      "tags": [
+        "Omen",
+        "Weather:Rain"
+      ],
+      "note": "Rain falls red. Superstitions ignite; divinations hum.",
+      "effects": [
+        "Morale shifts (fear or zeal)",
+        "Religious factions react strongly",
+        "Predators behave oddly"
+      ],
+      "mods": {
+        "force_precip_type": "Rain",
+        "force_precip_intensity": "Moderate",
+        "force_condition": "Rain"
+      }
+    },
+    {
+      "id": "fey_storm",
+      "name": "Fey Storm",
+      "weight": 0.2,
+      "season": "any",
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Magical",
+        "Travel:Hard"
+      ],
+      "note": "Colors sharpen. Shadows misbehave. Small miracles and small curses occur.",
+      "effects": [
+        "Illusions intensify",
+        "Compasses mislead",
+        "Dreams become prophetic"
+      ],
+      "mods": {
+        "force_condition": "Storm",
+        "force_precip_type": "Rain",
+        "force_precip_intensity": "Heavy",
+        "wind_mul": 1.2
+      }
+    },
+    {
+      "id": "miasma",
+      "name": "Miasma Bloom",
+      "weight": 0.35,
+      "season": "summer",
+      "min_days": 2,
+      "max_days": 5,
+      "tags": [
+        "Poison",
+        "Visibility:Poor",
+        "Travel:Hard"
+      ],
+      "note": "Stagnant air turns sour. Insects gather in black curtains.",
+      "effects": [
+        "Con checks vs sickness",
+        "Open wounds risk infection",
+        "Torches sputter"
+      ],
+      "mods": {
+        "force_condition": "Fog",
+        "wind_mul": 0.7
+      }
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche Risk",
+      "weight": 0.25,
+      "season": "winter",
+      "requires_cold": true,
+      "min_days": 2,
+      "max_days": 4,
+      "tags": [
+        "Travel:Very Hard"
+      ],
+      "note": "Fresh snow loads slopes; loud noise can become deadly.",
+      "effects": [
+        "Mountain passes close",
+        "Explosions/Thunder can trigger slides",
+        "Shelter locations change"
+      ],
+      "mods": {
+        "force_condition": "Snow",
+        "force_precip_type": "Snow",
+        "force_precip_intensity": "Heavy",
+        "wind_mul": 1.2
+      }
+    },
+    {
+      "id": "cave_flood",
+      "name": "Cave Flood Pulse",
+      "weight": 0.25,
+      "season": "spring",
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Travel:Hard"
+      ],
+      "note": "Underground waterways rise; lower tunnels become rivers.",
+      "effects": [
+        "Some dungeon routes flood",
+        "Air becomes damp and cold",
+        "Creatures relocate upward"
+      ],
+      "mods": {
+        "force_precip_type": "None",
+        "force_condition": "Cloudy",
+        "wind_mul": 0.2
+      }
+    },
+    {
+      "id": "spore_bloom",
+      "name": "Spore Bloom",
+      "weight": 0.2,
+      "season": "autumn",
+      "min_days": 1,
+      "max_days": 3,
+      "tags": [
+        "Poison",
+        "Omen"
+      ],
+      "note": "Pollen and spores ride invisible currents; breathing becomes a gamble.",
+      "effects": [
+        "Visibility hazy in sunbeams",
+        "Allergies and hallucinations spike",
+        "Fungi spread rapidly"
+      ],
+      "mods": {
+        "force_condition": "Fog",
+        "wind_mul": 0.8
+      }
+    }
+  ]
+}

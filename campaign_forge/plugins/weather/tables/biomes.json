@@ -1,0 +1,788 @@
+{
+  "biomes": [
+    {
+      "id": "temperate_forest",
+      "name": "Temperate Forest",
+      "tags": [
+        "Temperate",
+        "Forest",
+        "Baseline"
+      ],
+      "temp_c": {
+        "winter": -2,
+        "spring": 9,
+        "summer": 22,
+        "autumn": 10
+      },
+      "temp_variance": 7,
+      "precip_chance": {
+        "winter": 0.32,
+        "spring": 0.48,
+        "summer": 0.36,
+        "autumn": 0.5
+      },
+      "storm_chance": {
+        "winter": 0.05,
+        "spring": 0.1,
+        "summer": 0.12,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.12,
+        "spring": 0.08,
+        "summer": 0.05,
+        "autumn": 0.14
+      },
+      "wind_avg_kph": 12,
+      "wind_gust_chance": 0.18,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "flood",
+          "windstorm"
+        ]
+      }
+    },
+    {
+      "id": "plains_steppe",
+      "name": "Plains / Steppe",
+      "tags": [
+        "Temperate",
+        "Plains",
+        "Windy"
+      ],
+      "temp_c": {
+        "winter": -6,
+        "spring": 8,
+        "summer": 26,
+        "autumn": 9
+      },
+      "temp_variance": 10,
+      "precip_chance": {
+        "winter": 0.18,
+        "spring": 0.3,
+        "summer": 0.22,
+        "autumn": 0.25
+      },
+      "storm_chance": {
+        "winter": 0.04,
+        "spring": 0.09,
+        "summer": 0.14,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.05,
+        "spring": 0.04,
+        "summer": 0.02,
+        "autumn": 0.05
+      },
+      "wind_avg_kph": 22,
+      "wind_gust_chance": 0.28,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "windstorm",
+          "duststorm",
+          "heatwave"
+        ]
+      }
+    },
+    {
+      "id": "hot_desert",
+      "name": "Hot Desert",
+      "tags": [
+        "Arid",
+        "Desert",
+        "Hot"
+      ],
+      "temp_c": {
+        "winter": 12,
+        "spring": 22,
+        "summer": 38,
+        "autumn": 24
+      },
+      "temp_variance": 11,
+      "precip_chance": {
+        "winter": 0.04,
+        "spring": 0.05,
+        "summer": 0.08,
+        "autumn": 0.05
+      },
+      "storm_chance": {
+        "winter": 0.03,
+        "spring": 0.06,
+        "summer": 0.1,
+        "autumn": 0.05
+      },
+      "fog_chance": {
+        "winter": 0.01,
+        "spring": 0.01,
+        "summer": 0.01,
+        "autumn": 0.01
+      },
+      "wind_avg_kph": 18,
+      "wind_gust_chance": 0.3,
+      "precip_profile": "arid",
+      "special": {
+        "extreme_bias": [
+          "duststorm",
+          "heatwave",
+          "drought"
+        ]
+      }
+    },
+    {
+      "id": "cold_desert",
+      "name": "Cold Desert",
+      "tags": [
+        "Arid",
+        "Desert",
+        "Cold Nights"
+      ],
+      "temp_c": {
+        "winter": -10,
+        "spring": 4,
+        "summer": 18,
+        "autumn": 2
+      },
+      "temp_variance": 13,
+      "precip_chance": {
+        "winter": 0.06,
+        "spring": 0.08,
+        "summer": 0.1,
+        "autumn": 0.08
+      },
+      "storm_chance": {
+        "winter": 0.04,
+        "spring": 0.06,
+        "summer": 0.1,
+        "autumn": 0.06
+      },
+      "fog_chance": {
+        "winter": 0.03,
+        "spring": 0.02,
+        "summer": 0.01,
+        "autumn": 0.03
+      },
+      "wind_avg_kph": 20,
+      "wind_gust_chance": 0.28,
+      "precip_profile": "arid",
+      "special": {
+        "extreme_bias": [
+          "duststorm",
+          "cold_snap"
+        ]
+      }
+    },
+    {
+      "id": "tropical_jungle",
+      "name": "Tropical Jungle",
+      "tags": [
+        "Tropical",
+        "Jungle",
+        "Humid"
+      ],
+      "temp_c": {
+        "winter": 24,
+        "spring": 27,
+        "summer": 29,
+        "autumn": 27
+      },
+      "temp_variance": 4,
+      "precip_chance": {
+        "winter": 0.55,
+        "spring": 0.6,
+        "summer": 0.7,
+        "autumn": 0.62
+      },
+      "storm_chance": {
+        "winter": 0.1,
+        "spring": 0.12,
+        "summer": 0.18,
+        "autumn": 0.14
+      },
+      "fog_chance": {
+        "winter": 0.08,
+        "spring": 0.08,
+        "summer": 0.06,
+        "autumn": 0.08
+      },
+      "wind_avg_kph": 10,
+      "wind_gust_chance": 0.18,
+      "precip_profile": "maritime",
+      "special": {
+        "extreme_bias": [
+          "flood",
+          "cyclone"
+        ]
+      }
+    },
+    {
+      "id": "savannah",
+      "name": "Savannah",
+      "tags": [
+        "Warm",
+        "Grassland",
+        "Wet/Dry"
+      ],
+      "temp_c": {
+        "winter": 18,
+        "spring": 26,
+        "summer": 31,
+        "autumn": 24
+      },
+      "temp_variance": 7,
+      "precip_chance": {
+        "winter": 0.08,
+        "spring": 0.22,
+        "summer": 0.55,
+        "autumn": 0.18
+      },
+      "storm_chance": {
+        "winter": 0.05,
+        "spring": 0.08,
+        "summer": 0.16,
+        "autumn": 0.07
+      },
+      "fog_chance": {
+        "winter": 0.02,
+        "spring": 0.03,
+        "summer": 0.05,
+        "autumn": 0.03
+      },
+      "wind_avg_kph": 14,
+      "wind_gust_chance": 0.2,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "drought",
+          "flood",
+          "heatwave"
+        ]
+      }
+    },
+    {
+      "id": "arctic_tundra",
+      "name": "Arctic / Tundra",
+      "tags": [
+        "Arctic",
+        "Tundra",
+        "Ice"
+      ],
+      "temp_c": {
+        "winter": -22,
+        "spring": -10,
+        "summer": 4,
+        "autumn": -8
+      },
+      "temp_variance": 8,
+      "precip_chance": {
+        "winter": 0.25,
+        "spring": 0.28,
+        "summer": 0.22,
+        "autumn": 0.26
+      },
+      "storm_chance": {
+        "winter": 0.1,
+        "spring": 0.08,
+        "summer": 0.05,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.06,
+        "spring": 0.08,
+        "summer": 0.07,
+        "autumn": 0.08
+      },
+      "wind_avg_kph": 20,
+      "wind_gust_chance": 0.3,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "blizzard",
+          "whiteout",
+          "cold_snap"
+        ]
+      }
+    },
+    {
+      "id": "alpine_mountains",
+      "name": "Alpine Mountains",
+      "tags": [
+        "Alpine",
+        "Mountains",
+        "Thin Air"
+      ],
+      "temp_c": {
+        "winter": -15,
+        "spring": -2,
+        "summer": 10,
+        "autumn": -1
+      },
+      "temp_variance": 9,
+      "precip_chance": {
+        "winter": 0.4,
+        "spring": 0.38,
+        "summer": 0.32,
+        "autumn": 0.42
+      },
+      "storm_chance": {
+        "winter": 0.12,
+        "spring": 0.1,
+        "summer": 0.1,
+        "autumn": 0.12
+      },
+      "fog_chance": {
+        "winter": 0.1,
+        "spring": 0.1,
+        "summer": 0.07,
+        "autumn": 0.12
+      },
+      "wind_avg_kph": 26,
+      "wind_gust_chance": 0.35,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "blizzard",
+          "windstorm",
+          "avalanche"
+        ]
+      }
+    },
+    {
+      "id": "swamp_wetlands",
+      "name": "Swamp / Wetlands",
+      "tags": [
+        "Wet",
+        "Swamp",
+        "Fog"
+      ],
+      "temp_c": {
+        "winter": 4,
+        "spring": 14,
+        "summer": 27,
+        "autumn": 15
+      },
+      "temp_variance": 6,
+      "precip_chance": {
+        "winter": 0.4,
+        "spring": 0.55,
+        "summer": 0.5,
+        "autumn": 0.55
+      },
+      "storm_chance": {
+        "winter": 0.06,
+        "spring": 0.1,
+        "summer": 0.14,
+        "autumn": 0.1
+      },
+      "fog_chance": {
+        "winter": 0.22,
+        "spring": 0.18,
+        "summer": 0.12,
+        "autumn": 0.24
+      },
+      "wind_avg_kph": 9,
+      "wind_gust_chance": 0.14,
+      "precip_profile": "maritime",
+      "special": {
+        "extreme_bias": [
+          "flood",
+          "miasma"
+        ]
+      }
+    },
+    {
+      "id": "coastal_maritime",
+      "name": "Coastal / Maritime",
+      "tags": [
+        "Coastal",
+        "Wind",
+        "Fog"
+      ],
+      "temp_c": {
+        "winter": 3,
+        "spring": 10,
+        "summer": 19,
+        "autumn": 11
+      },
+      "temp_variance": 5,
+      "precip_chance": {
+        "winter": 0.5,
+        "spring": 0.48,
+        "summer": 0.4,
+        "autumn": 0.55
+      },
+      "storm_chance": {
+        "winter": 0.12,
+        "spring": 0.1,
+        "summer": 0.12,
+        "autumn": 0.16
+      },
+      "fog_chance": {
+        "winter": 0.18,
+        "spring": 0.14,
+        "summer": 0.1,
+        "autumn": 0.18
+      },
+      "wind_avg_kph": 24,
+      "wind_gust_chance": 0.32,
+      "precip_profile": "maritime",
+      "special": {
+        "extreme_bias": [
+          "cyclone",
+          "windstorm",
+          "flood"
+        ]
+      }
+    },
+    {
+      "id": "monsoon_basin",
+      "name": "Monsoon Basin",
+      "tags": [
+        "Tropical",
+        "Monsoon",
+        "Seasonal Rain"
+      ],
+      "temp_c": {
+        "winter": 22,
+        "spring": 28,
+        "summer": 30,
+        "autumn": 26
+      },
+      "temp_variance": 4,
+      "precip_chance": {
+        "winter": 0.1,
+        "spring": 0.25,
+        "summer": 0.85,
+        "autumn": 0.35
+      },
+      "storm_chance": {
+        "winter": 0.06,
+        "spring": 0.1,
+        "summer": 0.22,
+        "autumn": 0.12
+      },
+      "fog_chance": {
+        "winter": 0.06,
+        "spring": 0.06,
+        "summer": 0.07,
+        "autumn": 0.08
+      },
+      "wind_avg_kph": 14,
+      "wind_gust_chance": 0.22,
+      "precip_profile": "monsoon",
+      "special": {
+        "extreme_bias": [
+          "flood",
+          "cyclone"
+        ]
+      }
+    },
+    {
+      "id": "mediterranean",
+      "name": "Mediterranean Hills",
+      "tags": [
+        "Warm",
+        "Dry Summer",
+        "Mild Winter"
+      ],
+      "temp_c": {
+        "winter": 7,
+        "spring": 14,
+        "summer": 28,
+        "autumn": 16
+      },
+      "temp_variance": 6,
+      "precip_chance": {
+        "winter": 0.45,
+        "spring": 0.35,
+        "summer": 0.1,
+        "autumn": 0.35
+      },
+      "storm_chance": {
+        "winter": 0.08,
+        "spring": 0.07,
+        "summer": 0.05,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.06,
+        "spring": 0.05,
+        "summer": 0.03,
+        "autumn": 0.06
+      },
+      "wind_avg_kph": 12,
+      "wind_gust_chance": 0.18,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "drought",
+          "heatwave"
+        ]
+      }
+    },
+    {
+      "id": "taiga_boreal",
+      "name": "Boreal Taiga",
+      "tags": [
+        "Cold",
+        "Forest",
+        "Long Winter"
+      ],
+      "temp_c": {
+        "winter": -18,
+        "spring": -2,
+        "summer": 14,
+        "autumn": 0
+      },
+      "temp_variance": 9,
+      "precip_chance": {
+        "winter": 0.3,
+        "spring": 0.35,
+        "summer": 0.3,
+        "autumn": 0.38
+      },
+      "storm_chance": {
+        "winter": 0.08,
+        "spring": 0.08,
+        "summer": 0.1,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.1,
+        "spring": 0.08,
+        "summer": 0.06,
+        "autumn": 0.12
+      },
+      "wind_avg_kph": 14,
+      "wind_gust_chance": 0.22,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "blizzard",
+          "cold_snap"
+        ]
+      }
+    },
+    {
+      "id": "volcanic_ashlands",
+      "name": "Volcanic Ashlands",
+      "tags": [
+        "Volcanic",
+        "Ash",
+        "Harsh"
+      ],
+      "temp_c": {
+        "winter": 2,
+        "spring": 10,
+        "summer": 20,
+        "autumn": 9
+      },
+      "temp_variance": 8,
+      "precip_chance": {
+        "winter": 0.22,
+        "spring": 0.28,
+        "summer": 0.2,
+        "autumn": 0.25
+      },
+      "storm_chance": {
+        "winter": 0.06,
+        "spring": 0.08,
+        "summer": 0.1,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.1,
+        "spring": 0.08,
+        "summer": 0.05,
+        "autumn": 0.12
+      },
+      "wind_avg_kph": 18,
+      "wind_gust_chance": 0.26,
+      "precip_profile": "default",
+      "special": {
+        "ashfall": true,
+        "extreme_bias": [
+          "ashfall",
+          "windstorm"
+        ]
+      }
+    },
+    {
+      "id": "fey_wild",
+      "name": "Feywild Glade",
+      "tags": [
+        "Magical",
+        "Fey",
+        "Unstable"
+      ],
+      "temp_c": {
+        "winter": 0,
+        "spring": 15,
+        "summer": 25,
+        "autumn": 12
+      },
+      "temp_variance": 9,
+      "precip_chance": {
+        "winter": 0.35,
+        "spring": 0.45,
+        "summer": 0.35,
+        "autumn": 0.45
+      },
+      "storm_chance": {
+        "winter": 0.08,
+        "spring": 0.12,
+        "summer": 0.14,
+        "autumn": 0.1
+      },
+      "fog_chance": {
+        "winter": 0.18,
+        "spring": 0.14,
+        "summer": 0.1,
+        "autumn": 0.18
+      },
+      "wind_avg_kph": 10,
+      "wind_gust_chance": 0.22,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "fey_storm",
+          "blood_rain",
+          "miasma"
+        ]
+      }
+    },
+    {
+      "id": "underworld_caverns",
+      "name": "Underworld Caverns",
+      "tags": [
+        "Underground",
+        "Caverns",
+        "No Sun"
+      ],
+      "temp_c": {
+        "winter": 12,
+        "spring": 12,
+        "summer": 12,
+        "autumn": 12
+      },
+      "temp_variance": 2,
+      "precip_chance": {
+        "winter": 0.2,
+        "spring": 0.2,
+        "summer": 0.2,
+        "autumn": 0.2
+      },
+      "storm_chance": {
+        "winter": 0.01,
+        "spring": 0.01,
+        "summer": 0.01,
+        "autumn": 0.01
+      },
+      "fog_chance": {
+        "winter": 0.1,
+        "spring": 0.1,
+        "summer": 0.1,
+        "autumn": 0.1
+      },
+      "wind_avg_kph": 3,
+      "wind_gust_chance": 0.05,
+      "precip_profile": "default",
+      "special": {
+        "extreme_bias": [
+          "cave_flood",
+          "spore_bloom"
+        ]
+      }
+    },
+    {
+      "id": "badlands_canyon",
+      "name": "Badlands / Canyon",
+      "tags": [
+        "Dry",
+        "Eroded",
+        "Thunderheads"
+      ],
+      "temp_c": {
+        "winter": -1,
+        "spring": 12,
+        "summer": 33,
+        "autumn": 14
+      },
+      "temp_variance": 12,
+      "precip_chance": {
+        "winter": 0.08,
+        "spring": 0.12,
+        "summer": 0.18,
+        "autumn": 0.12
+      },
+      "storm_chance": {
+        "winter": 0.05,
+        "spring": 0.08,
+        "summer": 0.16,
+        "autumn": 0.08
+      },
+      "fog_chance": {
+        "winter": 0.02,
+        "spring": 0.02,
+        "summer": 0.01,
+        "autumn": 0.02
+      },
+      "wind_avg_kph": 20,
+      "wind_gust_chance": 0.3,
+      "precip_profile": "arid",
+      "special": {
+        "extreme_bias": [
+          "flash_flood",
+          "duststorm",
+          "heatwave"
+        ]
+      }
+    },
+    {
+      "id": "rainshadow_vale",
+      "name": "Rainshadow Vale",
+      "tags": [
+        "Dry",
+        "Mountain Shadow",
+        "Chill Nights"
+      ],
+      "temp_c": {
+        "winter": -8,
+        "spring": 6,
+        "summer": 21,
+        "autumn": 7
+      },
+      "temp_variance": 10,
+      "precip_chance": {
+        "winter": 0.1,
+        "spring": 0.12,
+        "summer": 0.1,
+        "autumn": 0.12
+      },
+      "storm_chance": {
+        "winter": 0.04,
+        "spring": 0.05,
+        "summer": 0.08,
+        "autumn": 0.05
+      },
+      "fog_chance": {
+        "winter": 0.06,
+        "spring": 0.04,
+        "summer": 0.02,
+        "autumn": 0.06
+      },
+      "wind_avg_kph": 16,
+      "wind_gust_chance": 0.24,
+      "precip_profile": "arid",
+      "special": {
+        "extreme_bias": [
+          "drought",
+          "windstorm",
+          "cold_snap"
+        ]
+      }
+    }
+  ]
+}
