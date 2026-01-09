@@ -1,0 +1,1 @@
+# NPC Generator plugin package
