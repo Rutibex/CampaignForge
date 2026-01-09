@@ -1,0 +1,632 @@
+[
+  {
+    "name": "Beeswax",
+    "gp": 3,
+    "unit": "block",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Salt Bricks",
+    "gp": 2,
+    "unit": "brick",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Salt Bricks",
+    "gp": 6,
+    "unit": "brick",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 64,
+    "unit": "bolt",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Wine Amphorae",
+    "gp": 49,
+    "unit": "amphora",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Lamp Oil",
+    "gp": 32,
+    "unit": "cask",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Silver Ingots",
+    "gp": 142,
+    "unit": "ingot",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 107,
+    "unit": "flask",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 33,
+    "unit": "sack",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Tea Bricks",
+    "gp": 19,
+    "unit": "brick",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Smoked Eel",
+    "gp": 7,
+    "unit": "crate",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 22,
+    "unit": "box",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Wine Amphorae",
+    "gp": 54,
+    "unit": "amphora",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Spice Saffron",
+    "gp": 34,
+    "unit": "tin",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Smoked Eel",
+    "gp": 15,
+    "unit": "crate",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Cured Hides",
+    "gp": 15,
+    "unit": "bundle",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 40,
+    "unit": "flask",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Tea Bricks",
+    "gp": 14,
+    "unit": "brick",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 40,
+    "unit": "sack",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 151,
+    "unit": "bolt",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 60,
+    "unit": "box",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Lamp Oil",
+    "gp": 35,
+    "unit": "cask",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 20,
+    "unit": "ingot",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Smoked Eel",
+    "gp": 23,
+    "unit": "crate",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 14,
+    "unit": "bundle",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 25,
+    "unit": "sack",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Amber Resin",
+    "gp": 64,
+    "unit": "jar",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 63,
+    "unit": "bolt",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 58,
+    "unit": "jar",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Amber Resin",
+    "gp": 26,
+    "unit": "jar",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 83,
+    "unit": "jar",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Salt Bricks",
+    "gp": 2,
+    "unit": "brick",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 24,
+    "unit": "bundle",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Salt Bricks",
+    "gp": 4,
+    "unit": "brick",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 43,
+    "unit": "sack",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Silver Ingots",
+    "gp": 68,
+    "unit": "ingot",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 54,
+    "unit": "flask",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 18,
+    "unit": "sack",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Gold Leaf",
+    "gp": 106,
+    "unit": "folio",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 11,
+    "unit": "ingot",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 24,
+    "unit": "bundle",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 74,
+    "unit": "bolt",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Silver Ingots",
+    "gp": 110,
+    "unit": "ingot",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 54,
+    "unit": "jar",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 61,
+    "unit": "flask",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 32,
+    "unit": "box",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 114,
+    "unit": "flask",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 58,
+    "unit": "box",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 6,
+    "unit": "ingot",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Tea Bricks",
+    "gp": 4,
+    "unit": "brick",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 49,
+    "unit": "jar",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Beeswax",
+    "gp": 7,
+    "unit": "block",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Lamp Oil",
+    "gp": 16,
+    "unit": "cask",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Black Pepper",
+    "gp": 36,
+    "unit": "sack",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Tea Bricks",
+    "gp": 20,
+    "unit": "brick",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 20,
+    "unit": "ingot",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Fine Paper",
+    "gp": 27,
+    "unit": "bundle",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 6,
+    "unit": "bundle",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Gold Leaf",
+    "gp": 57,
+    "unit": "folio",
+    "detail": "High demand in coastal markets.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Lamp Oil",
+    "gp": 21,
+    "unit": "cask",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 15,
+    "unit": "ingot",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 3,
+    "unit": "ingot",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 73,
+    "unit": "flask",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Amber Resin",
+    "gp": 59,
+    "unit": "jar",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 38,
+    "unit": "jar",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Beeswax",
+    "gp": 6,
+    "unit": "block",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 18,
+    "unit": "box",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 45,
+    "unit": "bolt",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Smoked Eel",
+    "gp": 12,
+    "unit": "crate",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 64,
+    "unit": "box",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Silver Ingots",
+    "gp": 72,
+    "unit": "ingot",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Silver Ingots",
+    "gp": 32,
+    "unit": "ingot",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Cured Hides",
+    "gp": 33,
+    "unit": "bundle",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Wine Amphorae",
+    "gp": 23,
+    "unit": "amphora",
+    "detail": "Smells faintly of smoke and cloves.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Cured Hides",
+    "gp": 12,
+    "unit": "bundle",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 35,
+    "unit": "box",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Lamp Oil",
+    "gp": 38,
+    "unit": "cask",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 17,
+    "unit": "bundle",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Copper Ingots",
+    "gp": 17,
+    "unit": "ingot",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Hardwood Planks",
+    "gp": 23,
+    "unit": "bundle",
+    "detail": "Illegal in one neighboring principality.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Incense Cones",
+    "gp": 25,
+    "unit": "box",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Silk Bolts",
+    "gp": 86,
+    "unit": "bolt",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Hardened Cheese",
+    "gp": 8,
+    "unit": "wheel",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Cured Hides",
+    "gp": 30,
+    "unit": "bundle",
+    "detail": "Worth double during a siege or bad winter.",
+    "bulk_lbs": 10
+  },
+  {
+    "name": "Beeswax",
+    "gp": 8,
+    "unit": "block",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Rare Dye Indigo",
+    "gp": 37,
+    "unit": "flask",
+    "detail": "Stamped with a guild mark guaranteeing quality.",
+    "bulk_lbs": 20
+  },
+  {
+    "name": "Alchemical Sulfur",
+    "gp": 18,
+    "unit": "jar",
+    "detail": "Attracts vermin if stored carelessly.",
+    "bulk_lbs": 5
+  },
+  {
+    "name": "Beeswax",
+    "gp": 7,
+    "unit": "block",
+    "detail": "Prone to spoilage unless kept dry and cool.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Tea Bricks",
+    "gp": 20,
+    "unit": "brick",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 40
+  },
+  {
+    "name": "Beeswax",
+    "gp": 16,
+    "unit": "block",
+    "detail": "Commonly used as bribes at checkpoints.",
+    "bulk_lbs": 40
+  }
+]

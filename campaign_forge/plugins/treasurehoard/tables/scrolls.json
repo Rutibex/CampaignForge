@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Scroll: Enchantment Rite (Tier 5)",
+    "gp_est": 500,
+    "effect": "Cast a enchantment effect appropriate to Tier 5.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 6)",
+    "gp_est": 3600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 5)",
+    "gp_est": 750,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 4)",
+    "gp_est": 400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 3200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 1)",
+    "gp_est": 800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 6)",
+    "gp_est": 600,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 2)",
+    "gp_est": 800,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 5)",
+    "gp_est": 750,
+    "effect": "Cast a enchantment effect appropriate to Tier 5.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 4)",
+    "gp_est": 4800,
+    "effect": "Cast a illusion effect appropriate to Tier 4.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 6)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 2)",
+    "gp_est": 600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 100,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 4)",
+    "gp_est": 2400,
+    "effect": "Cast a divination effect appropriate to Tier 4.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 600,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 450,
+    "effect": "Cast a conjuration effect appropriate to Tier 6.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 5)",
+    "gp_est": 1000,
+    "effect": "Cast a divination effect appropriate to Tier 5.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 1200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 1)",
+    "gp_est": 150,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 2)",
+    "gp_est": 1600,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 6)",
+    "gp_est": 300,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 6)",
+    "gp_est": 1200,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 3600,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 300,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 225,
+    "effect": "Cast a illusion effect appropriate to Tier 3.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 6)",
+    "gp_est": 900,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 1800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 5)",
+    "gp_est": 500,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 200,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 1800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 2)",
+    "gp_est": 600,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 6)",
+    "gp_est": 900,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 400,
+    "effect": "Cast a evocation effect appropriate to Tier 1.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 300,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 6)",
+    "gp_est": 450,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 6)",
+    "gp_est": 2400,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 2)",
+    "gp_est": 400,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 4)",
+    "gp_est": 600,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 5)",
+    "gp_est": 500,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 6)",
+    "gp_est": 2400,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 5)",
+    "gp_est": 1500,
+    "effect": "Cast a divination effect appropriate to Tier 5.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 5)",
+    "gp_est": 500,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 2)",
+    "gp_est": 600,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 3)",
+    "gp_est": 600,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 2)",
+    "gp_est": 200,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 5)",
+    "gp_est": 6000,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 300,
+    "effect": "Cast a enchantment effect appropriate to Tier 2.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 1)",
+    "gp_est": 100,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 5)",
+    "gp_est": 1500,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 4)",
+    "gp_est": 2400,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 100,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 400,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 6)",
+    "gp_est": 900,
+    "effect": "Cast a enchantment effect appropriate to Tier 6.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 4)",
+    "gp_est": 1200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 4)",
+    "gp_est": 200,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 4)",
+    "gp_est": 1600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 5)",
+    "gp_est": 4000,
+    "effect": "Cast a abjuration effect appropriate to Tier 5.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 3200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 6)",
+    "gp_est": 900,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 4)",
+    "gp_est": 800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 4)",
+    "gp_est": 4800,
+    "effect": "Cast a evocation effect appropriate to Tier 4.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 5)",
+    "gp_est": 3000,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 5)",
+    "gp_est": 2000,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 400,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 6)",
+    "gp_est": 3600,
+    "effect": "Cast a enchantment effect appropriate to Tier 6.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 3)",
+    "gp_est": 225,
+    "effect": "Cast a divination effect appropriate to Tier 3.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 6)",
+    "gp_est": 1800,
+    "effect": "Cast a transmutation effect appropriate to Tier 6.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 6)",
+    "gp_est": 4800,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 4)",
+    "gp_est": 200,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 5)",
+    "gp_est": 500,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 6)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 6)",
+    "gp_est": 1200,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 100,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 3)",
+    "gp_est": 1800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 4800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 2)",
+    "gp_est": 1200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 1)",
+    "gp_est": 150,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 5)",
+    "gp_est": 250,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 1)",
+    "gp_est": 50,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 300,
+    "effect": "Cast a evocation effect appropriate to Tier 1.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 1)",
+    "gp_est": 100,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 3)",
+    "gp_est": 1800,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 1)",
+    "gp_est": 200,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 4)",
+    "gp_est": 1600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 3)",
+    "gp_est": 300,
+    "effect": "Cast a transmutation effect appropriate to Tier 3.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 2400,
+    "effect": "Cast a enchantment effect appropriate to Tier 2.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 5)",
+    "gp_est": 3000,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 6)",
+    "gp_est": 2400,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 3)",
+    "gp_est": 3600,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 5)",
+    "gp_est": 3000,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 2)",
+    "gp_est": 300,
+    "effect": "Cast a evocation effect appropriate to Tier 2.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 1)",
+    "gp_est": 75,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 5)",
+    "gp_est": 2000,
+    "effect": "Cast a necromancy effect appropriate to Tier 5.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 150,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 3)",
+    "gp_est": 225,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 5)",
+    "gp_est": 250,
+    "effect": "Cast a illusion effect appropriate to Tier 5.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 1200,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 1)",
+    "gp_est": 150,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 3)",
+    "gp_est": 1800,
+    "effect": "Cast a transmutation effect appropriate to Tier 3.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 2)",
+    "gp_est": 200,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 5)",
+    "gp_est": 3000,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 1200,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 5)",
+    "gp_est": 750,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 225,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 1)",
+    "gp_est": 400,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Necromancy Rite (Tier 2)",
+    "gp_est": 200,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 3)",
+    "gp_est": 150,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 1)",
+    "gp_est": 150,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 1)",
+    "gp_est": 50,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 2400,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 2)",
+    "gp_est": 1200,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 3)",
+    "gp_est": 225,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 2)",
+    "gp_est": 100,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 300,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 6)",
+    "gp_est": 1800,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 1)",
+    "gp_est": 50,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 900,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 4)",
+    "gp_est": 800,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 3)",
+    "gp_est": 150,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The scroll is trapped with a harmless-but-embarrassing illusion."
+  },
+  {
+    "name": "Scroll: Conjuration Rite (Tier 5)",
+    "gp_est": 750,
+    "effect": "Reveal a truth or hidden path in a limited area.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 5)",
+    "gp_est": 1000,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 300,
+    "effect": "Cast a enchantment effect appropriate to Tier 3.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Illusion Rite (Tier 5)",
+    "gp_est": 4000,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 2)",
+    "gp_est": 1200,
+    "effect": "Cast a abjuration effect appropriate to Tier 2.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 300,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 2)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Enchantment Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Cast a enchantment effect appropriate to Tier 3.",
+    "complication": ""
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 4)",
+    "gp_est": 300,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Evocation Rite (Tier 4)",
+    "gp_est": 2400,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Ink bleeds; requires a quick fix with rare solvent."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 2)",
+    "gp_est": 2400,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 4)",
+    "gp_est": 1200,
+    "effect": "Perform a ritual that takes 10 minutes and consumes the scroll.",
+    "complication": "A jealous spirit wants the scroll returned."
+  },
+  {
+    "name": "Scroll: Abjuration Rite (Tier 4)",
+    "gp_est": 300,
+    "effect": "Create a temporary conjuration or transformation.",
+    "complication": "Misread glyph: loud thunderclap announces the casting."
+  },
+  {
+    "name": "Scroll: Transmutation Rite (Tier 3)",
+    "gp_est": 1800,
+    "effect": "Invoke a ward, charm, or blast tied to the ink’s motif.",
+    "complication": "The final line is in a dead language; needs translation."
+  },
+  {
+    "name": "Scroll: Divination Rite (Tier 3)",
+    "gp_est": 2400,
+    "effect": "Cast a divination effect appropriate to Tier 3.",
+    "complication": "A jealous spirit wants the scroll returned."
+  }
+]

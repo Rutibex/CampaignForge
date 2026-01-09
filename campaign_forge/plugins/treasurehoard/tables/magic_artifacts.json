@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Artifact: Blade of the First Pact",
+    "gp_est": 350000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mirror of the Golden Judge",
+    "gp_est": 60000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Bell of the Last Titan",
+    "gp_est": 200000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mask of the Seven Gates",
+    "gp_est": 200000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Key of the Last Titan",
+    "gp_est": 60000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Blade of the Silent Choir",
+    "gp_est": 60000,
+    "effect": "Holds a binding clause that can compel an oathbreaker.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Seal of the Fallen Star",
+    "gp_est": 60000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Seal of the Last Titan",
+    "gp_est": 350000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Seven Gates",
+    "gp_est": 80000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Fallen Star",
+    "gp_est": 200000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Seven Gates",
+    "gp_est": 350000,
+    "effect": "Makes the impossible route possible—once.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Silent Choir",
+    "gp_est": 350000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Key of the Silent Choir",
+    "gp_est": 120000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Key of the First Pact",
+    "gp_est": 80000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Bell of the Fallen Star",
+    "gp_est": 350000,
+    "effect": "Holds a binding clause that can compel an oathbreaker.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Crown of the Golden Judge",
+    "gp_est": 60000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Seal of the Golden Judge",
+    "gp_est": 200000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Blade of the Last Titan",
+    "gp_est": 200000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Blade of the Last Titan",
+    "gp_est": 350000,
+    "effect": "Makes the impossible route possible—once.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mirror of the Last Titan",
+    "gp_est": 120000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Crown of the Silent Choir",
+    "gp_est": 120000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Bell of the Hollow Sea",
+    "gp_est": 350000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Seal of the Hollow Sea",
+    "gp_est": 200000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mask of the Last Titan",
+    "gp_est": 60000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mask of the First Pact",
+    "gp_est": 120000,
+    "effect": "Holds a binding clause that can compel an oathbreaker.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mirror of the First Pact",
+    "gp_est": 120000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Key of the First Pact",
+    "gp_est": 200000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Blade of the Seven Gates",
+    "gp_est": 120000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Its presence corrupts local wildlife over weeks.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Bell of the Seven Gates",
+    "gp_est": 120000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Bell of the Golden Judge",
+    "gp_est": 60000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Blade of the Hollow Sea",
+    "gp_est": 350000,
+    "effect": "Alters the course of a kingdom when used in public ritual.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Golden Judge",
+    "gp_est": 350000,
+    "effect": "Makes the impossible route possible—once.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Throne of the Silent Choir",
+    "gp_est": 120000,
+    "effect": "Turns one battlefield decision into a legend (or a catastrophe).",
+    "drawback": "It cannot be hidden; whispers spread regardless of secrecy.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Crown of the Silent Choir",
+    "gp_est": 60000,
+    "effect": "Holds a binding clause that can compel an oathbreaker.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Crown of the First Pact",
+    "gp_est": 120000,
+    "effect": "Rewrites the owner’s face in the memories of those who knew them.",
+    "drawback": "Every use draws the attention of an ancient claimant.",
+    "tags": [
+      "Artifact"
+    ]
+  },
+  {
+    "name": "Artifact: Mirror of the Last Titan",
+    "gp_est": 350000,
+    "effect": "Holds a binding clause that can compel an oathbreaker.",
+    "drawback": "It demands a sacrifice of something precious each season.",
+    "tags": [
+      "Artifact"
+    ]
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Lantern of Distant Doors",
+    "gp_est": 2000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Orb of Waking Stars",
+    "gp_est": 6000,
+    "effect": "Wondrous: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Saints",
+    "gp_est": 1500,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Sword of Glass",
+    "gp_est": 40000,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Shield of the Deep",
+    "gp_est": 40000,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Helm of Mirror",
+    "gp_est": 18000,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+3 Bow of Depths",
+    "gp_est": 3000,
+    "effect": "Weapon: banishes a summoned creature on a failed save.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+3 Staff of Kings",
+    "gp_est": 1500,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Tome of Distant Doors",
+    "gp_est": 4500,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Binding",
+    "gp_est": 25000,
+    "effect": "Wondrous: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+3 Mace of Kings",
+    "gp_est": 3000,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Waking Stars",
+    "gp_est": 25000,
+    "effect": "Wondrous: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Shield of the Lion",
+    "gp_est": 8000,
+    "effect": "Worn: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Crown of Binding",
+    "gp_est": 6000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Suns",
+    "gp_est": 40000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Binding",
+    "gp_est": 8000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Kings",
+    "gp_est": 12000,
+    "effect": "Weapon: opens sealed doors and mundane locks with a touch.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+3 Hammer of Suns",
+    "gp_est": 18000,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Iron Oaths",
+    "gp_est": 3000,
+    "effect": "Worn: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Depths",
+    "gp_est": 6000,
+    "effect": "Weapon: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Silent Rivers",
+    "gp_est": 1500,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Waking Stars",
+    "gp_est": 40000,
+    "effect": "Wondrous: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Waking Stars",
+    "gp_est": 18000,
+    "effect": "Wondrous: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Bow of Kings",
+    "gp_est": 3000,
+    "effect": "Weapon: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Ash",
+    "gp_est": 25000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Crown of Binding",
+    "gp_est": 3000,
+    "effect": "Wondrous: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Spear of Glass",
+    "gp_est": 8000,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Wyrms",
+    "gp_est": 1500,
+    "effect": "Weapon: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Ash",
+    "gp_est": 18000,
+    "effect": "Wondrous: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Hammer of Storms",
+    "gp_est": 6000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Saints",
+    "gp_est": 8000,
+    "effect": "Worn: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Mace of Suns",
+    "gp_est": 25000,
+    "effect": "Weapon: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Saints",
+    "gp_est": 25000,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of the Lion",
+    "gp_est": 25000,
+    "effect": "Worn: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Kings",
+    "gp_est": 40000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Dagger of Suns",
+    "gp_est": 2000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of the Lion",
+    "gp_est": 12000,
+    "effect": "Worn: summons a guardian spirit for 1 minute.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+3 Spear of Kings",
+    "gp_est": 1500,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Wyrms",
+    "gp_est": 25000,
+    "effect": "Weapon: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Silent Rivers",
+    "gp_est": 6000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Suns",
+    "gp_est": 4500,
+    "effect": "Weapon: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Censer of Waking Stars",
+    "gp_est": 40000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Mirror",
+    "gp_est": 18000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Bow of Suns",
+    "gp_est": 2000,
+    "effect": "Weapon: summons a guardian spirit for 1 minute.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+3 Axe of Kings",
+    "gp_est": 40000,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Distant Doors",
+    "gp_est": 18000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Distant Doors",
+    "gp_est": 25000,
+    "effect": "Wondrous: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Staff of Suns",
+    "gp_est": 18000,
+    "effect": "Weapon: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Iron Oaths",
+    "gp_est": 12000,
+    "effect": "Worn: turns aside magic missiles and minor spells.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Depths",
+    "gp_est": 12000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Crown of Distant Doors",
+    "gp_est": 2000,
+    "effect": "Wondrous: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Mirror",
+    "gp_est": 12000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Wyrms",
+    "gp_est": 12000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Silent Rivers",
+    "gp_est": 4500,
+    "effect": "Wondrous: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Rod of Binding",
+    "gp_est": 25000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Iron Oaths",
+    "gp_est": 12000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Silent Rivers",
+    "gp_est": 18000,
+    "effect": "Wondrous: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Dagger of Depths",
+    "gp_est": 8000,
+    "effect": "Weapon: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Crown of Silent Rivers",
+    "gp_est": 3000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Distant Doors",
+    "gp_est": 18000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Aegis",
+    "gp_est": 4500,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Silent Rivers",
+    "gp_est": 12000,
+    "effect": "Wondrous: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Silent Rivers",
+    "gp_est": 3000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of the Lion",
+    "gp_est": 6000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Censer of Silent Rivers",
+    "gp_est": 8000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Suns",
+    "gp_est": 12000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Sword of Glass",
+    "gp_est": 2000,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Waking Stars",
+    "gp_est": 8000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Iron Oaths",
+    "gp_est": 18000,
+    "effect": "Worn: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Winter",
+    "gp_est": 12000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Waking Stars",
+    "gp_est": 8000,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Waking Stars",
+    "gp_est": 18000,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Rod of Binding",
+    "gp_est": 18000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Ash",
+    "gp_est": 6000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Crown of Binding",
+    "gp_est": 12000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Distant Doors",
+    "gp_est": 4500,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Crown of Winter",
+    "gp_est": 25000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of the Deep",
+    "gp_est": 40000,
+    "effect": "Worn: opens sealed doors and mundane locks with a touch.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of the Lion",
+    "gp_est": 6000,
+    "effect": "Worn: opens sealed doors and mundane locks with a touch.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+3 Hammer of Kings",
+    "gp_est": 2000,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Crown of Ash",
+    "gp_est": 25000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Iron Oaths",
+    "gp_est": 18000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Ash",
+    "gp_est": 25000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Censer of Distant Doors",
+    "gp_est": 12000,
+    "effect": "Wondrous: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Waking Stars",
+    "gp_est": 12000,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Axe of Glass",
+    "gp_est": 18000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+3 Dagger of Suns",
+    "gp_est": 8000,
+    "effect": "Weapon: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Iron Oaths",
+    "gp_est": 4500,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Saints",
+    "gp_est": 4500,
+    "effect": "Worn: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Saints",
+    "gp_est": 18000,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Crown of Binding",
+    "gp_est": 6000,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Rod of Ash",
+    "gp_est": 3000,
+    "effect": "Wondrous: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Censer of Ash",
+    "gp_est": 3000,
+    "effect": "Wondrous: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Staff of Depths",
+    "gp_est": 18000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Shield of Mirror",
+    "gp_est": 1500,
+    "effect": "Worn: summons a guardian spirit for 1 minute.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Shield of Saints",
+    "gp_est": 6000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tome of Winter",
+    "gp_est": 1500,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Iron Oaths",
+    "gp_est": 3000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of the Deep",
+    "gp_est": 18000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Saints",
+    "gp_est": 18000,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Suns",
+    "gp_est": 2000,
+    "effect": "Weapon: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Glass",
+    "gp_est": 6000,
+    "effect": "Weapon: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Saints",
+    "gp_est": 40000,
+    "effect": "Worn: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of the Lion",
+    "gp_est": 1500,
+    "effect": "Worn: summons a guardian spirit for 1 minute.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Silent Rivers",
+    "gp_est": 4500,
+    "effect": "Wondrous: turns aside magic missiles and minor spells.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Depths",
+    "gp_est": 1500,
+    "effect": "Weapon: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Orb of Distant Doors",
+    "gp_est": 40000,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of the Lion",
+    "gp_est": 18000,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Spear of Storms",
+    "gp_est": 8000,
+    "effect": "Weapon: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Saints",
+    "gp_est": 6000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Staff of Kings",
+    "gp_est": 40000,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Crown of Waking Stars",
+    "gp_est": 8000,
+    "effect": "Wondrous: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Wyrms",
+    "gp_est": 12000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+2 Staff of Kings",
+    "gp_est": 6000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Crossbow of Suns",
+    "gp_est": 1500,
+    "effect": "Weapon: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Aegis",
+    "gp_est": 8000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of the Lion",
+    "gp_est": 12000,
+    "effect": "Worn: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Iron Oaths",
+    "gp_est": 6000,
+    "effect": "Worn: banishes a summoned creature on a failed save.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Ash",
+    "gp_est": 2000,
+    "effect": "Wondrous: opens sealed doors and mundane locks with a touch.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+3 Crossbow of Depths",
+    "gp_est": 6000,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of the Deep",
+    "gp_est": 3000,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Wyrms",
+    "gp_est": 18000,
+    "effect": "Weapon: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Storms",
+    "gp_est": 4500,
+    "effect": "Weapon: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Saints",
+    "gp_est": 8000,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+2 Bow of Storms",
+    "gp_est": 18000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Shield of Aegis",
+    "gp_est": 12000,
+    "effect": "Worn: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Mirror",
+    "gp_est": 4500,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Dagger of Suns",
+    "gp_est": 6000,
+    "effect": "Weapon: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+3 Sword of Glass",
+    "gp_est": 25000,
+    "effect": "Weapon: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Lantern of Binding",
+    "gp_est": 1500,
+    "effect": "Wondrous: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Dagger of Glass",
+    "gp_est": 8000,
+    "effect": "Weapon: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Orb of Ash",
+    "gp_est": 1500,
+    "effect": "Wondrous: opens sealed doors and mundane locks with a touch.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Crown of Ash",
+    "gp_est": 8000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Storms",
+    "gp_est": 1500,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Tome of Distant Doors",
+    "gp_est": 18000,
+    "effect": "Wondrous: summons a guardian spirit for 1 minute.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Aegis",
+    "gp_est": 8000,
+    "effect": "Worn: lets the bearer walk on water and thin air for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Saints",
+    "gp_est": 25000,
+    "effect": "Worn: makes the bearer unseen for 1 minute (recharges at dawn).",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+3 Spear of Depths",
+    "gp_est": 8000,
+    "effect": "Weapon: stores a spell-like effect that can be released later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cuirass of Aegis",
+    "gp_est": 3000,
+    "effect": "Worn: casts a devastating cone of elemental force (limited uses).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Saints",
+    "gp_est": 25000,
+    "effect": "Worn: allows flight for short bursts.",
+    "drawback": "",
+    "tags": []
+  }
+]

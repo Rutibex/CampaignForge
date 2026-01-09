@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Sealed Clay Jar",
+    "security": "seal",
+    "notes": "wax seal bears a half-erased sigil"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Stone Coffer",
+    "security": "ward",
+    "notes": "runes suggest a one-use alarm"
+  },
+  {
+    "name": "Sealed Clay Jar",
+    "security": "seal",
+    "notes": "wax seal bears a half-erased sigil"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Coin-Dune Hollow",
+    "security": "none",
+    "notes": "coins shift like sand underfoot"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Coin-Dune Hollow",
+    "security": "none",
+    "notes": "coins shift like sand underfoot"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Stone Coffer",
+    "security": "ward",
+    "notes": "runes suggest a one-use alarm"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Stone Coffer",
+    "security": "ward",
+    "notes": "runes suggest a one-use alarm"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Sealed Clay Jar",
+    "security": "seal",
+    "notes": "wax seal bears a half-erased sigil"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Stone Coffer",
+    "security": "ward",
+    "notes": "runes suggest a one-use alarm"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Vault Shelf",
+    "security": "guarded",
+    "notes": "inventory tags still attached"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Sealed Clay Jar",
+    "security": "seal",
+    "notes": "wax seal bears a half-erased sigil"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Leather Pouch",
+    "security": "none",
+    "notes": "stained with pitch; smells like smoke"
+  },
+  {
+    "name": "Coin-Dune Hollow",
+    "security": "none",
+    "notes": "coins shift like sand underfoot"
+  },
+  {
+    "name": "Banded Oak Chest",
+    "security": "lock + trap",
+    "notes": "needle trap in the latch"
+  },
+  {
+    "name": "Altar Niche",
+    "security": "cursed?",
+    "notes": "offerings piled in neat layers"
+  },
+  {
+    "name": "Buried Cask",
+    "security": "camouflaged",
+    "notes": "marked by a ring of pale stones"
+  },
+  {
+    "name": "Iron Strongbox",
+    "security": "lock",
+    "notes": "heavy and dented; key missing"
+  },
+  {
+    "name": "Mimic-Like Crate",
+    "security": "teeth",
+    "notes": "it twitches when approached"
+  }
+]

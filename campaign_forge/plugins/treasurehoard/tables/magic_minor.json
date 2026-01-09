@@ -1,0 +1,1542 @@
+[
+  {
+    "name": "+1 Dagger of Echoes",
+    "gp_est": 200,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Wardings",
+    "gp_est": 75,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Tides",
+    "gp_est": 500,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Sparks",
+    "gp_est": 200,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Hammer of Tides",
+    "gp_est": 500,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Tides",
+    "gp_est": 300,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Stone-skin",
+    "gp_est": 100,
+    "effect": "Consumable: end one common condition (poisoned, frightened, etc.).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Tides",
+    "gp_est": 650,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Wardings",
+    "gp_est": 650,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Potion of Stone-skin",
+    "gp_est": 50,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Sparks",
+    "gp_est": 150,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Ring of Shadows",
+    "gp_est": 800,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Swift Step",
+    "gp_est": 1000,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Tides",
+    "gp_est": 300,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Potion of Truth",
+    "gp_est": 75,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Truth",
+    "gp_est": 650,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Featherfall",
+    "gp_est": 200,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Draught of Truth",
+    "gp_est": 1000,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Sword of Embers",
+    "gp_est": 500,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Luck",
+    "gp_est": 1000,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Embers",
+    "gp_est": 1000,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Sparks",
+    "gp_est": 400,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Luck",
+    "gp_est": 75,
+    "effect": "Worn: stores a whispered message that plays back later.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Draught of Healing",
+    "gp_est": 300,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Sparks",
+    "gp_est": 500,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Axe of Echoes",
+    "gp_est": 200,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Healing",
+    "gp_est": 800,
+    "effect": "Consumable: end one common condition (poisoned, frightened, etc.).",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Hunting",
+    "gp_est": 1000,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Tides",
+    "gp_est": 800,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Tides",
+    "gp_est": 150,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Tides",
+    "gp_est": 150,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Night Sight",
+    "gp_est": 50,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Shadows",
+    "gp_est": 75,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Potion of Night Sight",
+    "gp_est": 100,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Crossbow of Tides",
+    "gp_est": 50,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Embers",
+    "gp_est": 650,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+2 Axe of Sparks",
+    "gp_est": 650,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Axe of Wardings",
+    "gp_est": 100,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Sparks",
+    "gp_est": 150,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Shield of Shadows",
+    "gp_est": 800,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Frost",
+    "gp_est": 300,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Boots of Luck",
+    "gp_est": 100,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Oaths",
+    "gp_est": 300,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Sparks",
+    "gp_est": 1000,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Potion of Swift Step",
+    "gp_est": 100,
+    "effect": "Consumable: end one common condition (poisoned, frightened, etc.).",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Shield of Luck",
+    "gp_est": 50,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Hunting",
+    "gp_est": 100,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Belt of Oaths",
+    "gp_est": 150,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Featherfall",
+    "gp_est": 800,
+    "effect": "Worn: grants advantage on a single check once per day.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Embers",
+    "gp_est": 200,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Hunting",
+    "gp_est": 300,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Shadows",
+    "gp_est": 800,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Sparks",
+    "gp_est": 150,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Echoes",
+    "gp_est": 1000,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Hunting",
+    "gp_est": 100,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Hunting",
+    "gp_est": 500,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Frost",
+    "gp_est": 75,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Echoes",
+    "gp_est": 300,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Hammer of Hunting",
+    "gp_est": 150,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Embers",
+    "gp_est": 500,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Hunting",
+    "gp_est": 500,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Frost",
+    "gp_est": 100,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Ring of Tides",
+    "gp_est": 1000,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Wardings",
+    "gp_est": 150,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Quiet",
+    "gp_est": 50,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Luck",
+    "gp_est": 300,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Tides",
+    "gp_est": 200,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Sparks",
+    "gp_est": 100,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+2 Sword of Frost",
+    "gp_est": 400,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Sparks",
+    "gp_est": 100,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Embers",
+    "gp_est": 800,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Swift Step",
+    "gp_est": 500,
+    "effect": "Consumable: end one common condition (poisoned, frightened, etc.).",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+2 Dagger of Sparks",
+    "gp_est": 150,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Shadows",
+    "gp_est": 500,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Swift Step",
+    "gp_est": 100,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Tides",
+    "gp_est": 650,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Shield of Luck",
+    "gp_est": 200,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Oaths",
+    "gp_est": 800,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Oaths",
+    "gp_est": 100,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Tides",
+    "gp_est": 300,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Truth",
+    "gp_est": 650,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Wardings",
+    "gp_est": 50,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Echoes",
+    "gp_est": 300,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Truth",
+    "gp_est": 650,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Sparks",
+    "gp_est": 800,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Tides",
+    "gp_est": 1000,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Echoes",
+    "gp_est": 100,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Ring of Oaths",
+    "gp_est": 50,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Sparks",
+    "gp_est": 75,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Echoes",
+    "gp_est": 100,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Shadows",
+    "gp_est": 200,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Embers",
+    "gp_est": 500,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Shadows",
+    "gp_est": 300,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Dagger of Frost",
+    "gp_est": 75,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Hammer of Echoes",
+    "gp_est": 75,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Embers",
+    "gp_est": 800,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Helm of Shadows",
+    "gp_est": 800,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Hammer of Frost",
+    "gp_est": 400,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Belt of Featherfall",
+    "gp_est": 200,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+2 Spear of Embers",
+    "gp_est": 50,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Luck",
+    "gp_est": 50,
+    "effect": "Worn: grants advantage on a single check once per day.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Oaths",
+    "gp_est": 200,
+    "effect": "Worn: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Healing",
+    "gp_est": 650,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Luck",
+    "gp_est": 50,
+    "effect": "Worn: stores a whispered message that plays back later.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Frost",
+    "gp_est": 75,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Oaths",
+    "gp_est": 150,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Belt of Shadows",
+    "gp_est": 1000,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Swift Step",
+    "gp_est": 75,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Healing",
+    "gp_est": 100,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Frost",
+    "gp_est": 400,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Echoes",
+    "gp_est": 75,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Calm Breath",
+    "gp_est": 50,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Healing",
+    "gp_est": 100,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Shield of Oaths",
+    "gp_est": 650,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Boots of Shadows",
+    "gp_est": 800,
+    "effect": "Worn: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Frost",
+    "gp_est": 800,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Sparks",
+    "gp_est": 50,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Quiet",
+    "gp_est": 200,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Shield of Oaths",
+    "gp_est": 100,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Gloves of Featherfall",
+    "gp_est": 800,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Sparks",
+    "gp_est": 650,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Belt of Oaths",
+    "gp_est": 75,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Frost",
+    "gp_est": 50,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Echoes",
+    "gp_est": 500,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Potion of Warmth",
+    "gp_est": 150,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+2 Staff of Echoes",
+    "gp_est": 100,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Embers",
+    "gp_est": 50,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Sparks",
+    "gp_est": 200,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Potion of Swift Step",
+    "gp_est": 1000,
+    "effect": "Consumable: gain resistance to one damage type for 10 minutes.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Hunting",
+    "gp_est": 300,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Tides",
+    "gp_est": 400,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Sparks",
+    "gp_est": 800,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Night Sight",
+    "gp_est": 300,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Frost",
+    "gp_est": 150,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Sparks",
+    "gp_est": 1000,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Night Sight",
+    "gp_est": 400,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Night Sight",
+    "gp_est": 150,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Warmth",
+    "gp_est": 650,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Belt of Luck",
+    "gp_est": 75,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Belt of Oaths",
+    "gp_est": 1000,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Night Sight",
+    "gp_est": 200,
+    "effect": "Consumable: gain resistance to one damage type for 10 minutes.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+1 Crossbow of Tides",
+    "gp_est": 500,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Calm Breath",
+    "gp_est": 1000,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Frost",
+    "gp_est": 400,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Luck",
+    "gp_est": 100,
+    "effect": "Worn: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Night Sight",
+    "gp_est": 50,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Hunting",
+    "gp_est": 100,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Swift Step",
+    "gp_est": 400,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Helm of Featherfall",
+    "gp_est": 150,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Stone-skin",
+    "gp_est": 300,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Embers",
+    "gp_est": 200,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Swift Step",
+    "gp_est": 100,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Tides",
+    "gp_est": 50,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Frost",
+    "gp_est": 300,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Sparks",
+    "gp_est": 650,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Potion of Warmth",
+    "gp_est": 1000,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Hunting",
+    "gp_est": 75,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Stone-skin",
+    "gp_est": 1000,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Echoes",
+    "gp_est": 800,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Sparks",
+    "gp_est": 75,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Truth",
+    "gp_est": 650,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Mace of Frost",
+    "gp_est": 650,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Frost",
+    "gp_est": 50,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Luck",
+    "gp_est": 650,
+    "effect": "Worn: grants advantage on a single check once per day.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Shadows",
+    "gp_est": 200,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Tides",
+    "gp_est": 300,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Axe of Tides",
+    "gp_est": 50,
+    "effect": "Weapon: glows faintly near undead or cursed ground.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Night Sight",
+    "gp_est": 500,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Hammer of Tides",
+    "gp_est": 100,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Boots of Oaths",
+    "gp_est": 500,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Healing",
+    "gp_est": 50,
+    "effect": "Consumable: gain resistance to one damage type for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Shadows",
+    "gp_est": 500,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Calm Breath",
+    "gp_est": 300,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Shadows",
+    "gp_est": 75,
+    "effect": "Worn: stores a whispered message that plays back later.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Sparks",
+    "gp_est": 50,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Warmth",
+    "gp_est": 650,
+    "effect": "Consumable: see in darkness for 1 hour.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Shield of Shadows",
+    "gp_est": 500,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Sparks",
+    "gp_est": 650,
+    "effect": "Weapon: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Quiet",
+    "gp_est": 300,
+    "effect": "Worn: stores a whispered message that plays back later.",
+    "drawback": "whispers a single ominous phrase at dawn",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Sparks",
+    "gp_est": 400,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Crossbow of Embers",
+    "gp_est": 500,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Helm of Quiet",
+    "gp_est": 400,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "Boots of Tides",
+    "gp_est": 150,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Night Sight",
+    "gp_est": 150,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Sparks",
+    "gp_est": 75,
+    "effect": "Weapon: stores a whispered message that plays back later.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Wardings",
+    "gp_est": 300,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Crossbow of Frost",
+    "gp_est": 75,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "+2 Dagger of Hunting",
+    "gp_est": 300,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Crossbow of Hunting",
+    "gp_est": 650,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Hunting",
+    "gp_est": 500,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Sparks",
+    "gp_est": 100,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+2 Hammer of Wardings",
+    "gp_est": 400,
+    "effect": "Weapon: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Featherfall",
+    "gp_est": 300,
+    "effect": "Worn: makes footsteps silent for 1 minute (1/day).",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Stone-skin",
+    "gp_est": 800,
+    "effect": "Consumable: increase movement speed for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Boots of Oaths",
+    "gp_est": 300,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Cloak of Luck",
+    "gp_est": 800,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Warmth",
+    "gp_est": 100,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Warmth",
+    "gp_est": 300,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Draught of Warmth",
+    "gp_est": 650,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "Belt of Quiet",
+    "gp_est": 400,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+1 Mace of Sparks",
+    "gp_est": 100,
+    "effect": "Weapon: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Tonic of Stone-skin",
+    "gp_est": 50,
+    "effect": "Consumable: end one common condition (poisoned, frightened, etc.).",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "+1 Staff of Hunting",
+    "gp_est": 650,
+    "effect": "Weapon: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Boots of Sparks",
+    "gp_est": 400,
+    "effect": "Worn: glows faintly near undead or cursed ground.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Helm of Quiet",
+    "gp_est": 150,
+    "effect": "Worn: chills drinks and preserves rations for a week.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Amulet of Oaths",
+    "gp_est": 1000,
+    "effect": "Worn: can produce 10 feet of bright light on command.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Truth",
+    "gp_est": 150,
+    "effect": "Consumable: stabilize and awaken a fallen ally.",
+    "drawback": "attracts moths and small nocturnal animals",
+    "tags": []
+  },
+  {
+    "name": "Shield of Luck",
+    "gp_est": 650,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "hungers for praise; it becomes inert if insulted",
+    "tags": []
+  },
+  {
+    "name": "+1 Spear of Frost",
+    "gp_est": 200,
+    "effect": "Weapon: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  },
+  {
+    "name": "Breastplate of Quiet",
+    "gp_est": 300,
+    "effect": "Worn: lets the bearer understand any spoken language for 10 minutes.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Boots of Shadows",
+    "gp_est": 650,
+    "effect": "Worn: lets the bearer breathe smoke/fog without choking.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Elixir of Calm Breath",
+    "gp_est": 650,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "is recognized by certain guards as stolen property",
+    "tags": []
+  },
+  {
+    "name": "+1 Dagger of Sparks",
+    "gp_est": 300,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "causes vivid dreams of places you've never been",
+    "tags": []
+  },
+  {
+    "name": "Belt of Shadows",
+    "gp_est": 1000,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "+1 Sword of Sparks",
+    "gp_est": 400,
+    "effect": "Weapon: stops bleeding and stabilizes a dying creature once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Featherfall",
+    "gp_est": 200,
+    "effect": "Worn: turns aside one mundane arrow per day.",
+    "drawback": "stains the bearer’s fingertips with metallic ash",
+    "tags": []
+  },
+  {
+    "name": "Draught of Swift Step",
+    "gp_est": 200,
+    "effect": "Consumable: restore a modest amount of health.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "+1 Axe of Frost",
+    "gp_est": 650,
+    "effect": "Weapon: turns aside one mundane arrow per day.",
+    "drawback": "leaves faint frost on whatever it touches",
+    "tags": []
+  },
+  {
+    "name": "+1 Bow of Tides",
+    "gp_est": 150,
+    "effect": "Weapon: grants advantage on a single check once per day.",
+    "drawback": "",
+    "tags": []
+  },
+  {
+    "name": "Ring of Sparks",
+    "gp_est": 1000,
+    "effect": "Worn: grants advantage on a single check once per day.",
+    "drawback": "occasionally emits a bell-like chime at the worst time",
+    "tags": []
+  }
+]

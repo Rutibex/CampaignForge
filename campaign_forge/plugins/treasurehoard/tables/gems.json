@@ -1,0 +1,1122 @@
+[
+  {
+    "name": "Blood Carnelian",
+    "gp": 72,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Star Bloodstone",
+    "gp": 865,
+    "rarity": "rare",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Blood Amethyst",
+    "gp": 698,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Serpent Emerald",
+    "gp": 886,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Raw Sable Spinel",
+    "gp": 59,
+    "rarity": "uncommon",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Ember Lapis",
+    "gp": 22,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sky Bloodstone",
+    "gp": 79,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Iron Carnelian",
+    "gp": 210,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Moon Azurite",
+    "gp": 106,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Iron Bloodstone",
+    "gp": 55,
+    "rarity": "uncommon",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Tumbled Star Garnet",
+    "gp": 66,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Gold Coral",
+    "gp": 78,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Ancient Heliotrope",
+    "gp": 245,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Sable Garnet",
+    "gp": 146,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Forgotten Quartz",
+    "gp": 398,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Dawn Chalcedony",
+    "gp": 876,
+    "rarity": "rare",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cut Sky Quartz",
+    "gp": 691,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cut Royal Aquamarine",
+    "gp": 336,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Iron Peridot",
+    "gp": 422,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Star Agate",
+    "gp": 877,
+    "rarity": "rare",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Engraved Sea Carnelian",
+    "gp": 21,
+    "rarity": "common",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Storm Zircon",
+    "gp": 141,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sky Citrine",
+    "gp": 893,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Ashen Obsidian",
+    "gp": 116,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Forgotten Jade",
+    "gp": 17,
+    "rarity": "common",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Wyrm Azurite",
+    "gp": 54,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Glimmer Jasper",
+    "gp": 311,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Iron Moonstone",
+    "gp": 202,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Dawn Carnelian",
+    "gp": 42,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Raw Blood Heliotrope",
+    "gp": 62,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Sun Onyx",
+    "gp": 520,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Dawn Tourmaline",
+    "gp": 310,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Faceted Star Bloodstone",
+    "gp": 327,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Moon Bloodstone",
+    "gp": 32,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Opaline Emerald",
+    "gp": 49,
+    "rarity": "common",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Royal Jade",
+    "gp": 424,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Crystal Aquamarine",
+    "gp": 10,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Brilliant-Cut Silver Coral",
+    "gp": 231,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Blood Peridot",
+    "gp": 106,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Serpent Sapphire",
+    "gp": 891,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Raw Sea Emerald",
+    "gp": 1154,
+    "rarity": "very rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Engraved Moon Obsidian",
+    "gp": 693,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cut Glimmer Aquamarine",
+    "gp": 50,
+    "rarity": "common",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Silver Iron Jade",
+    "gp": 95,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Silver Beryl",
+    "gp": 1153,
+    "rarity": "very rare",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Shadow Jasper",
+    "gp": 148,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Ember Quartz",
+    "gp": 130,
+    "rarity": "uncommon",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Silver Blood Azurite",
+    "gp": 21,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Void Zircon",
+    "gp": 27,
+    "rarity": "common",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Frost Malachite",
+    "gp": 140,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Star Moonstone",
+    "gp": 84,
+    "rarity": "uncommon",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Brilliant-Cut Void Citrine",
+    "gp": 146,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Raw Ashen Zircon",
+    "gp": 52,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Moon Lapis",
+    "gp": 87,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Tumbled Opaline Sapphire",
+    "gp": 58,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sable Pearl",
+    "gp": 306,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Sky Moonstone",
+    "gp": 30,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Star Jade",
+    "gp": 337,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cut Royal Jade",
+    "gp": 299,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Luminous Onyx",
+    "gp": 75,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Iron Bloodstone",
+    "gp": 521,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Sky Topaz",
+    "gp": 59,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Tumbled Forest Quartz",
+    "gp": 99,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Blood Onyx",
+    "gp": 69,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Storm Amethyst",
+    "gp": 194,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Silver Storm Zircon",
+    "gp": 59,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Blood Sapphire",
+    "gp": 66,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Star Azurite",
+    "gp": 140,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sea Zircon",
+    "gp": 158,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Shadow Chalcedony",
+    "gp": 71,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Opaline Quartz",
+    "gp": 119,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Luminous Sapphire",
+    "gp": 162,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Engraved Star Spinel",
+    "gp": 37,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Star Zircon",
+    "gp": 138,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Dawn Moonstone",
+    "gp": 25,
+    "rarity": "common",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Ashen Jade",
+    "gp": 41,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Serpent Emerald",
+    "gp": 532,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Crystal Citrine",
+    "gp": 44,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Luminous Diamond",
+    "gp": 689,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cut Royal Jade",
+    "gp": 422,
+    "rarity": "rare",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Ivory Spinel",
+    "gp": 687,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Crown Coral",
+    "gp": 405,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Wyrm Lapis",
+    "gp": 547,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Rose-Cut Gold Lapis",
+    "gp": 75,
+    "rarity": "uncommon",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Forgotten Obsidian",
+    "gp": 38,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Serpent Citrine",
+    "gp": 319,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Faceted Moon Ruby",
+    "gp": 265,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Ashen Peridot",
+    "gp": 125,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Ashen Heliotrope",
+    "gp": 508,
+    "rarity": "rare",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Star Onyx",
+    "gp": 238,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Faceted Ivory Chalcedony",
+    "gp": 1156,
+    "rarity": "very rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Engraved Crystal Beryl",
+    "gp": 35,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Forest Peridot",
+    "gp": 157,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Void Ruby",
+    "gp": 508,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Dawn Opal",
+    "gp": 9,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Ancient Emerald",
+    "gp": 66,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sable Carnelian",
+    "gp": 405,
+    "rarity": "rare",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Ivory Coral",
+    "gp": 27,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Sable Bloodstone",
+    "gp": 1144,
+    "rarity": "very rare",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Sun Emerald",
+    "gp": 64,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Luminous Carnelian",
+    "gp": 30,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Sun Pearl",
+    "gp": 31,
+    "rarity": "common",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Silver Bloodstone",
+    "gp": 398,
+    "rarity": "rare",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Rose-Cut Crown Diamond",
+    "gp": 890,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Ancient Sapphire",
+    "gp": 97,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Void Beryl",
+    "gp": 87,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Blood Onyx",
+    "gp": 63,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Luminous Opal",
+    "gp": 112,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Sun Emerald",
+    "gp": 542,
+    "rarity": "rare",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Crystal Tourmaline",
+    "gp": 390,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Dawn Malachite",
+    "gp": 138,
+    "rarity": "uncommon",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Faceted Opaline Tourmaline",
+    "gp": 881,
+    "rarity": "rare",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Void Topaz",
+    "gp": 29,
+    "rarity": "common",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cut Crown Carnelian",
+    "gp": 56,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Crown Lapis",
+    "gp": 698,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Ancient Bloodstone",
+    "gp": 185,
+    "rarity": "uncommon",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Serpent Agate",
+    "gp": 11,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Crystal Chalcedony",
+    "gp": 513,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Ashen Malachite",
+    "gp": 35,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Storm Tourmaline",
+    "gp": 259,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Set-In-Silver Ember Aquamarine",
+    "gp": 106,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Opaline Carnelian",
+    "gp": 91,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Silver Gold Spinel",
+    "gp": 317,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Brilliant-Cut Wyrm Bloodstone",
+    "gp": 82,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Frost Jade",
+    "gp": 32,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Serpent Spinel",
+    "gp": 103,
+    "rarity": "uncommon",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Engraved Serpent Malachite",
+    "gp": 26,
+    "rarity": "common",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Brilliant-Cut Silver Emerald",
+    "gp": 41,
+    "rarity": "common",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Moon Azurite",
+    "gp": 1138,
+    "rarity": "very rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Gold Carnelian",
+    "gp": 245,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Sun Spinel",
+    "gp": 318,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Set-In-Silver Sun Amber",
+    "gp": 1121,
+    "rarity": "very rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Wyrm Amethyst",
+    "gp": 540,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Frost Lapis",
+    "gp": 338,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Cabochon Ashen Beryl",
+    "gp": 139,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Silver Onyx",
+    "gp": 126,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Sun Topaz",
+    "gp": 42,
+    "rarity": "common",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Silver Topaz",
+    "gp": 213,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Rose-Cut Wyrm Spinel",
+    "gp": 868,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Forgotten Spinel",
+    "gp": 18,
+    "rarity": "common",
+    "detail": "Hums softly near iron or running water.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Sea Coral",
+    "gp": 886,
+    "rarity": "rare",
+    "detail": "Cold and perfectly clear; tiny fractures form a map-like web.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Ancient Heliotrope",
+    "gp": 396,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Rose-Cut Serpent Turquoise",
+    "gp": 328,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Gold Jade",
+    "gp": 240,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Void Azurite",
+    "gp": 319,
+    "rarity": "rare",
+    "detail": "Contains a speck of black sand that never settles.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Sea Agate",
+    "gp": 1157,
+    "rarity": "very rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.2
+  },
+  {
+    "name": "Cabochon Gold Citrine",
+    "gp": 168,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Forest Topaz",
+    "gp": 94,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Royal Heliotrope",
+    "gp": 28,
+    "rarity": "common",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Iron Peridot",
+    "gp": 55,
+    "rarity": "uncommon",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Glimmer Chalcedony",
+    "gp": 139,
+    "rarity": "uncommon",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Glimmer Bloodstone",
+    "gp": 14,
+    "rarity": "common",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Rose-Cut Sun Citrine",
+    "gp": 172,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Royal Beryl",
+    "gp": 248,
+    "rarity": "rare",
+    "detail": "Veins of metallic glitter pulse when held.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Rose-Cut Ivory Amethyst",
+    "gp": 63,
+    "rarity": "uncommon",
+    "detail": "Suspiciously flawless; light bends oddly at the edges.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Wyrm Bloodstone",
+    "gp": 45,
+    "rarity": "common",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Cabochon Forgotten Moonstone",
+    "gp": 26,
+    "rarity": "common",
+    "detail": "Stamped with a mint-mark rune on the reverse facet.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Set-In-Gold Silver Pearl",
+    "gp": 334,
+    "rarity": "rare",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.1
+  },
+  {
+    "name": "Faceted Frost Coral",
+    "gp": 89,
+    "rarity": "uncommon",
+    "detail": "Whorls of color resemble storm clouds trapped in glass.",
+    "bulk_lbs": 0.05
+  },
+  {
+    "name": "Gold Heliotrope",
+    "gp": 405,
+    "rarity": "rare",
+    "detail": "Warm to the touch; faint internal fire at dusk.",
+    "bulk_lbs": 0.1
+  }
+]

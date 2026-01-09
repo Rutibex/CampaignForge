@@ -1,0 +1,482 @@
+[
+  {
+    "name": "Relic: Battle Standard of the Red Spear",
+    "gp_est": 7000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Oracle Tooth of Old River Guild",
+    "gp_est": 2500,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Crown Fragment of the Seven Bridges",
+    "gp_est": 900,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of Old River Guild",
+    "gp_est": 400,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bone Flute of Old River Guild",
+    "gp_est": 2500,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Oracle Tooth of the Last Regent",
+    "gp_est": 900,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bone Flute of the Ash Court",
+    "gp_est": 4000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Bone Flute of Old River Guild",
+    "gp_est": 1800,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of the Dawn Chapel",
+    "gp_est": 1200,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bone Flute of House Varin",
+    "gp_est": 12000,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of the Last Regent",
+    "gp_est": 250,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of the Seven Bridges",
+    "gp_est": 250,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of the Seven Bridges",
+    "gp_est": 1200,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Bone Flute of Old River Guild",
+    "gp_est": 900,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Sealed Charter of the Seven Bridges",
+    "gp_est": 1200,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Battle Standard of the Seven Bridges",
+    "gp_est": 250,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of the Ash Court",
+    "gp_est": 600,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Guild Medallion of the Seven Bridges",
+    "gp_est": 250,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Guild Medallion of House Varin",
+    "gp_est": 1200,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of the Last Regent",
+    "gp_est": 12000,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of Old River Guild",
+    "gp_est": 2500,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Crown Fragment of the Last Regent",
+    "gp_est": 600,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Crown Fragment of the Seven Bridges",
+    "gp_est": 2500,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of the Red Spear",
+    "gp_est": 600,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Battle Standard of the Last Regent",
+    "gp_est": 250,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of Old River Guild",
+    "gp_est": 600,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of the Ash Court",
+    "gp_est": 2500,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of the Seven Bridges",
+    "gp_est": 600,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of the Seven Bridges",
+    "gp_est": 4000,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Crown Fragment of the Dawn Chapel",
+    "gp_est": 2500,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bone Flute of Old River Guild",
+    "gp_est": 900,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of the Seven Bridges",
+    "gp_est": 12000,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Signet Ring of the Seven Bridges",
+    "gp_est": 4000,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bone Flute of Old River Guild",
+    "gp_est": 400,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Sealed Charter of Old River Guild",
+    "gp_est": 7000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Bone Flute of House Varin",
+    "gp_est": 900,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of the Last Regent",
+    "gp_est": 7000,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Bone Flute of House Varin",
+    "gp_est": 1800,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of Old River Guild",
+    "gp_est": 7000,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Guild Medallion of Old River Guild",
+    "gp_est": 1800,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of House Varin",
+    "gp_est": 12000,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Sealed Charter of House Varin",
+    "gp_est": 4000,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bone Flute of House Varin",
+    "gp_est": 1200,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Sealed Charter of Old River Guild",
+    "gp_est": 400,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Battle Standard of the Ash Court",
+    "gp_est": 1200,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bone Flute of the Red Spear",
+    "gp_est": 1200,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Battle Standard of the Seven Bridges",
+    "gp_est": 600,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of Old River Guild",
+    "gp_est": 1800,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Crown Fragment of Old River Guild",
+    "gp_est": 600,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Guild Medallion of House Varin",
+    "gp_est": 600,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of the Ash Court",
+    "gp_est": 2500,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of Old River Guild",
+    "gp_est": 600,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Guild Medallion of House Varin",
+    "gp_est": 1200,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of Old River Guild",
+    "gp_est": 2500,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of the Last Regent",
+    "gp_est": 7000,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of the Last Regent",
+    "gp_est": 2500,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of the Seven Bridges",
+    "gp_est": 2500,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Bronze Votive Hand of Old River Guild",
+    "gp_est": 1800,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Battle Standard of the Seven Bridges",
+    "gp_est": 1800,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of the Ash Court",
+    "gp_est": 1200,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Sealed Charter of the Ash Court",
+    "gp_est": 400,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of Old River Guild",
+    "gp_est": 900,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Oracle Tooth of the Red Spear",
+    "gp_est": 600,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Signet Ring of the Last Regent",
+    "gp_est": 250,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of House Varin",
+    "gp_est": 7000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Guild Medallion of the Dawn Chapel",
+    "gp_est": 1200,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Signet Ring of House Varin",
+    "gp_est": 12000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Bone Flute of the Last Regent",
+    "gp_est": 900,
+    "meaning": "Relic revered by a minor cult; public sale is dangerous.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Battle Standard of House Varin",
+    "gp_est": 12000,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of the Ash Court",
+    "gp_est": 12000,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Saint-Bone Reliquary of the Red Spear",
+    "gp_est": 1200,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Iron Oath-Chain of Old River Guild",
+    "gp_est": 1200,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Sealed Charter of the Dawn Chapel",
+    "gp_est": 400,
+    "meaning": "Symbol that can end (or start) a feud.",
+    "danger": "Recognized by faction agents within days."
+  },
+  {
+    "name": "Relic: Ancient Coin-Die of Old River Guild",
+    "gp_est": 1800,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Sealed Charter of the Dawn Chapel",
+    "gp_est": 4000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Crown Fragment of the Seven Bridges",
+    "gp_est": 2500,
+    "meaning": "Key to a sealed archive or hidden vault.",
+    "danger": "Harmless on its own, but completes a larger set."
+  },
+  {
+    "name": "Relic: Battle Standard of the Dawn Chapel",
+    "gp_est": 7000,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Carries a minor curse of bad luck when lied about."
+  },
+  {
+    "name": "Relic: Bone Flute of the Last Regent",
+    "gp_est": 400,
+    "meaning": "Token used to demand sanctuary under ancient law.",
+    "danger": "Bound to an oath; breaking it draws a hunter."
+  },
+  {
+    "name": "Relic: Battle Standard of House Varin",
+    "gp_est": 400,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": ""
+  },
+  {
+    "name": "Relic: Sealed Charter of the Ash Court",
+    "gp_est": 4000,
+    "meaning": "Proof of legitimacy to command a local force.",
+    "danger": "Harmless on its own, but completes a larger set."
+  }
+]

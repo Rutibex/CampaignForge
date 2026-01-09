@@ -1,0 +1,1922 @@
+[
+  {
+    "name": "Silk Banner of a crowned serpent",
+    "gp": 3355,
+    "culture": "Highland",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of the last titan",
+    "gp": 2950,
+    "culture": "Coastal",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Illuminated Codex of the first snowfall",
+    "gp": 2594,
+    "culture": "Jungle",
+    "era": "modern",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Lacquered Screen of the founding treaty",
+    "gp": 9620,
+    "culture": "Desert",
+    "era": "modern",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Bronze Statue of the last titan",
+    "gp": 332,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of a heroic duel",
+    "gp": 2444,
+    "culture": "Underworld",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of the first snowfall",
+    "gp": 10730,
+    "culture": "Elven",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silk Banner of the harvest rite",
+    "gp": 2630,
+    "culture": "Desert",
+    "era": "mythic age",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of a burning city",
+    "gp": 6227,
+    "culture": "Dwarven",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of a sea battle",
+    "gp": 7007,
+    "culture": "Elven",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Jewelled Goblet of the moon throne",
+    "gp": 4185,
+    "culture": "Elven",
+    "era": "high empire",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ivory Chess Set of a burning city",
+    "gp": 2567,
+    "culture": "Dwarven",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Oil Painting of the first snowfall",
+    "gp": 6328,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ivory Chess Set of a coronation",
+    "gp": 3382,
+    "culture": "Highland",
+    "era": "modern",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of a burning city",
+    "gp": 2815,
+    "culture": "Underworld",
+    "era": "early kingdom",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the first snowfall",
+    "gp": 2844,
+    "culture": "Local",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silk Banner of the first snowfall",
+    "gp": 2558,
+    "culture": "Jungle",
+    "era": "pre-ruin",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Inlaid Music Box of a forgotten saint",
+    "gp": 3444,
+    "culture": "Local",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Illuminated Codex of a forgotten saint",
+    "gp": 1071,
+    "culture": "Highland",
+    "era": "late dynasty",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Illuminated Codex of the harvest rite",
+    "gp": 3159,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silk Banner of the harvest rite",
+    "gp": 1759,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Bronze Statue of a burning city",
+    "gp": 736,
+    "culture": "Imperial",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Marble Bust of a forgotten saint",
+    "gp": 6242,
+    "culture": "Highland",
+    "era": "pre-ruin",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Tapestry of a comet's passage",
+    "gp": 6773,
+    "culture": "Dwarven",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of the first snowfall",
+    "gp": 2794,
+    "culture": "Local",
+    "era": "mythic age",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of a heroic duel",
+    "gp": 2363,
+    "culture": "Dwarven",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Carved Reliquary of the star garden",
+    "gp": 1919,
+    "culture": "Steppe",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of a coronation",
+    "gp": 5032,
+    "culture": "Elven",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of a forgotten saint",
+    "gp": 1579,
+    "culture": "Elven",
+    "era": "modern",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of the last titan",
+    "gp": 2099,
+    "culture": "Local",
+    "era": "late dynasty",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Tapestry of a burning city",
+    "gp": 2326,
+    "culture": "Highland",
+    "era": "modern",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of a heroic duel",
+    "gp": 3792,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of the first snowfall",
+    "gp": 4247,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Inlaid Music Box of a coronation",
+    "gp": 355,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of the moon throne",
+    "gp": 5955,
+    "culture": "Dwarven",
+    "era": "modern",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of a forgotten saint",
+    "gp": 1365,
+    "culture": "Desert",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Lacquered Screen of the seven gates",
+    "gp": 10037,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of a forgotten saint",
+    "gp": 2954,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Lacquered Screen of the star garden",
+    "gp": 5803,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of the founding treaty",
+    "gp": 1808,
+    "culture": "Steppe",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of the star garden",
+    "gp": 453,
+    "culture": "Dwarven",
+    "era": "early kingdom",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Obsidian Mirror of a heroic duel",
+    "gp": 6305,
+    "culture": "Highland",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Inlaid Music Box of a masked festival",
+    "gp": 1101,
+    "culture": "Coastal",
+    "era": "mythic age",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of the founding treaty",
+    "gp": 5319,
+    "culture": "Underworld",
+    "era": "interregnum",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Oil Painting of a crowned serpent",
+    "gp": 5529,
+    "culture": "Dwarven",
+    "era": "high empire",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the last titan",
+    "gp": 1221,
+    "culture": "Coastal",
+    "era": "mythic age",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Carved Reliquary of the harvest rite",
+    "gp": 7761,
+    "culture": "Local",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of the moon throne",
+    "gp": 5262,
+    "culture": "Steppe",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Engraved Astrolabe of the last titan",
+    "gp": 1273,
+    "culture": "Dwarven",
+    "era": "late dynasty",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silver Icon of the first snowfall",
+    "gp": 2252,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of a comet's passage",
+    "gp": 3181,
+    "culture": "Underworld",
+    "era": "interregnum",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silk Banner of a sea battle",
+    "gp": 275,
+    "culture": "Underworld",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of the harvest rite",
+    "gp": 7459,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Lacquered Screen of the first snowfall",
+    "gp": 4725,
+    "culture": "Steppe",
+    "era": "early kingdom",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of a crowned serpent",
+    "gp": 9917,
+    "culture": "Local",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of a coronation",
+    "gp": 598,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of a comet's passage",
+    "gp": 2243,
+    "culture": "Dwarven",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Obsidian Mirror of a sea battle",
+    "gp": 7255,
+    "culture": "Coastal",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Jewelled Goblet of the star garden",
+    "gp": 4652,
+    "culture": "Dwarven",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Lacquered Screen of a crowned serpent",
+    "gp": 557,
+    "culture": "Steppe",
+    "era": "interregnum",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of a burning city",
+    "gp": 3463,
+    "culture": "Desert",
+    "era": "modern",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of a sea battle",
+    "gp": 5571,
+    "culture": "Steppe",
+    "era": "modern",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of the first snowfall",
+    "gp": 967,
+    "culture": "Underworld",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Lacquered Screen of a burning city",
+    "gp": 5333,
+    "culture": "Imperial",
+    "era": "high empire",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silver Icon of the harvest rite",
+    "gp": 2170,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silk Banner of the founding treaty",
+    "gp": 3239,
+    "culture": "Elven",
+    "era": "late dynasty",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Oil Painting of the first snowfall",
+    "gp": 2246,
+    "culture": "Underworld",
+    "era": "late dynasty",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Oil Painting of a heroic duel",
+    "gp": 7942,
+    "culture": "Jungle",
+    "era": "mythic age",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Inlaid Music Box of the harvest rite",
+    "gp": 4724,
+    "culture": "Steppe",
+    "era": "late dynasty",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of a crowned serpent",
+    "gp": 2000,
+    "culture": "Desert",
+    "era": "interregnum",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of a forgotten saint",
+    "gp": 2138,
+    "culture": "Jungle",
+    "era": "early kingdom",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Tapestry of the star garden",
+    "gp": 6291,
+    "culture": "Dwarven",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Carved Reliquary of the seven gates",
+    "gp": 5016,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of the harvest rite",
+    "gp": 4803,
+    "culture": "Steppe",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Jewelled Goblet of a coronation",
+    "gp": 1310,
+    "culture": "Dwarven",
+    "era": "mythic age",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of the seven gates",
+    "gp": 1581,
+    "culture": "Local",
+    "era": "late dynasty",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Illuminated Codex of the seven gates",
+    "gp": 4413,
+    "culture": "Steppe",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Lacquered Screen of a heroic duel",
+    "gp": 6947,
+    "culture": "Underworld",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of a forgotten saint",
+    "gp": 1430,
+    "culture": "Desert",
+    "era": "high empire",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ceremonial Mask of the last titan",
+    "gp": 393,
+    "culture": "Steppe",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Oil Painting of a burning city",
+    "gp": 5024,
+    "culture": "Desert",
+    "era": "interregnum",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Inlaid Music Box of the founding treaty",
+    "gp": 6585,
+    "culture": "Highland",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Jewelled Goblet of a coronation",
+    "gp": 3039,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ceremonial Mask of a crowned serpent",
+    "gp": 3198,
+    "culture": "Imperial",
+    "era": "late dynasty",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silver Icon of the star garden",
+    "gp": 1291,
+    "culture": "Highland",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Inlaid Music Box of the moon throne",
+    "gp": 2858,
+    "culture": "Underworld",
+    "era": "early kingdom",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Oil Painting of the star garden",
+    "gp": 1631,
+    "culture": "Jungle",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of a burning city",
+    "gp": 2830,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of a heroic duel",
+    "gp": 6282,
+    "culture": "Imperial",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Bronze Statue of the moon throne",
+    "gp": 7884,
+    "culture": "Steppe",
+    "era": "pre-ruin",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Illuminated Codex of a heroic duel",
+    "gp": 2428,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Oil Painting of the first snowfall",
+    "gp": 6841,
+    "culture": "Desert",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of the seven gates",
+    "gp": 3140,
+    "culture": "Highland",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of a heroic duel",
+    "gp": 1574,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Engraved Astrolabe of a forgotten saint",
+    "gp": 3683,
+    "culture": "Jungle",
+    "era": "high empire",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Lacquered Screen of a masked festival",
+    "gp": 1122,
+    "culture": "Imperial",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of a coronation",
+    "gp": 979,
+    "culture": "Dwarven",
+    "era": "mythic age",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of a sea battle",
+    "gp": 1346,
+    "culture": "Desert",
+    "era": "mythic age",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Obsidian Mirror of a heroic duel",
+    "gp": 2473,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silk Banner of a coronation",
+    "gp": 384,
+    "culture": "Imperial",
+    "era": "mythic age",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Jewelled Goblet of a masked festival",
+    "gp": 4398,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the first snowfall",
+    "gp": 275,
+    "culture": "Underworld",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silver Icon of the last titan",
+    "gp": 2127,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Obsidian Mirror of a comet's passage",
+    "gp": 2552,
+    "culture": "Local",
+    "era": "interregnum",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of a masked festival",
+    "gp": 9649,
+    "culture": "Dwarven",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the seven gates",
+    "gp": 2234,
+    "culture": "Coastal",
+    "era": "mythic age",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of the founding treaty",
+    "gp": 6588,
+    "culture": "Local",
+    "era": "high empire",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of a burning city",
+    "gp": 1047,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of the founding treaty",
+    "gp": 513,
+    "culture": "Elven",
+    "era": "mythic age",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Obsidian Mirror of the harvest rite",
+    "gp": 8040,
+    "culture": "Elven",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of the first snowfall",
+    "gp": 5057,
+    "culture": "Imperial",
+    "era": "modern",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silk Banner of the seven gates",
+    "gp": 1330,
+    "culture": "Highland",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Tapestry of a comet's passage",
+    "gp": 3381,
+    "culture": "Local",
+    "era": "mythic age",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Bronze Statue of a heroic duel",
+    "gp": 2239,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silk Banner of a masked festival",
+    "gp": 3977,
+    "culture": "Elven",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of the seven gates",
+    "gp": 3325,
+    "culture": "Dwarven",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of the last titan",
+    "gp": 1843,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the founding treaty",
+    "gp": 407,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Oil Painting of a crowned serpent",
+    "gp": 5800,
+    "culture": "Jungle",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of a comet's passage",
+    "gp": 3713,
+    "culture": "Dwarven",
+    "era": "pre-ruin",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of a heroic duel",
+    "gp": 2161,
+    "culture": "Local",
+    "era": "late dynasty",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of a forgotten saint",
+    "gp": 2318,
+    "culture": "Steppe",
+    "era": "high empire",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of the last titan",
+    "gp": 415,
+    "culture": "Jungle",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Illuminated Codex of the last titan",
+    "gp": 749,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of a comet's passage",
+    "gp": 2720,
+    "culture": "Dwarven",
+    "era": "modern",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Illuminated Codex of a masked festival",
+    "gp": 4361,
+    "culture": "Desert",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of the first snowfall",
+    "gp": 7511,
+    "culture": "Jungle",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Oil Painting of a forgotten saint",
+    "gp": 7136,
+    "culture": "Elven",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of the star garden",
+    "gp": 2873,
+    "culture": "Steppe",
+    "era": "pre-ruin",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Jewelled Goblet of a comet's passage",
+    "gp": 4516,
+    "culture": "Elven",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of the seven gates",
+    "gp": 3111,
+    "culture": "Dwarven",
+    "era": "late dynasty",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Marble Bust of a coronation",
+    "gp": 8394,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Illuminated Codex of a sea battle",
+    "gp": 4639,
+    "culture": "Dwarven",
+    "era": "high empire",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Obsidian Mirror of the seven gates",
+    "gp": 8042,
+    "culture": "Coastal",
+    "era": "mythic age",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Oil Painting of the harvest rite",
+    "gp": 2747,
+    "culture": "Jungle",
+    "era": "early kingdom",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of the star garden",
+    "gp": 7342,
+    "culture": "Elven",
+    "era": "early kingdom",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Engraved Astrolabe of the seven gates",
+    "gp": 1117,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ceremonial Mask of the first snowfall",
+    "gp": 2965,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of the harvest rite",
+    "gp": 3416,
+    "culture": "Elven",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of a forgotten saint",
+    "gp": 4520,
+    "culture": "Underworld",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Oil Painting of the last titan",
+    "gp": 5546,
+    "culture": "Underworld",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silver Icon of the harvest rite",
+    "gp": 266,
+    "culture": "Imperial",
+    "era": "mythic age",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of a coronation",
+    "gp": 5384,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Illuminated Codex of a heroic duel",
+    "gp": 2126,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Obsidian Mirror of a sea battle",
+    "gp": 1181,
+    "culture": "Coastal",
+    "era": "early kingdom",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Marble Bust of the last titan",
+    "gp": 5873,
+    "culture": "Steppe",
+    "era": "mythic age",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of a masked festival",
+    "gp": 5858,
+    "culture": "Steppe",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of a crowned serpent",
+    "gp": 1050,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Oil Painting of a coronation",
+    "gp": 943,
+    "culture": "Coastal",
+    "era": "mythic age",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Marble Bust of the star garden",
+    "gp": 2916,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of a crowned serpent",
+    "gp": 2910,
+    "culture": "Jungle",
+    "era": "high empire",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of a masked festival",
+    "gp": 1725,
+    "culture": "Imperial",
+    "era": "late dynasty",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Tapestry of a comet's passage",
+    "gp": 1078,
+    "culture": "Underworld",
+    "era": "mythic age",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Bronze Statue of a coronation",
+    "gp": 8993,
+    "culture": "Coastal",
+    "era": "late dynasty",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of a heroic duel",
+    "gp": 6192,
+    "culture": "Steppe",
+    "era": "modern",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of the founding treaty",
+    "gp": 3439,
+    "culture": "Dwarven",
+    "era": "early kingdom",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ivory Chess Set of a comet's passage",
+    "gp": 4654,
+    "culture": "Elven",
+    "era": "modern",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of the founding treaty",
+    "gp": 3315,
+    "culture": "Elven",
+    "era": "late dynasty",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Jewelled Goblet of a coronation",
+    "gp": 404,
+    "culture": "Elven",
+    "era": "pre-ruin",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of the seven gates",
+    "gp": 4030,
+    "culture": "Elven",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ceremonial Mask of the founding treaty",
+    "gp": 2571,
+    "culture": "Coastal",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of the seven gates",
+    "gp": 2905,
+    "culture": "Underworld",
+    "era": "high empire",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of the founding treaty",
+    "gp": 236,
+    "culture": "Dwarven",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ivory Chess Set of the star garden",
+    "gp": 6091,
+    "culture": "Underworld",
+    "era": "early kingdom",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Inlaid Music Box of a heroic duel",
+    "gp": 6513,
+    "culture": "Local",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Oil Painting of the harvest rite",
+    "gp": 4444,
+    "culture": "Elven",
+    "era": "mythic age",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Tapestry of the first snowfall",
+    "gp": 2050,
+    "culture": "Jungle",
+    "era": "high empire",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Oil Painting of a burning city",
+    "gp": 3532,
+    "culture": "Coastal",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of a burning city",
+    "gp": 6127,
+    "culture": "Elven",
+    "era": "interregnum",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Jewelled Goblet of the harvest rite",
+    "gp": 2737,
+    "culture": "Highland",
+    "era": "early kingdom",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of the moon throne",
+    "gp": 3915,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of the first snowfall",
+    "gp": 4116,
+    "culture": "Desert",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of a heroic duel",
+    "gp": 5176,
+    "culture": "Imperial",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of the founding treaty",
+    "gp": 2025,
+    "culture": "Desert",
+    "era": "modern",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silk Banner of the star garden",
+    "gp": 1676,
+    "culture": "Elven",
+    "era": "high empire",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of the founding treaty",
+    "gp": 1494,
+    "culture": "Desert",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Marble Bust of the star garden",
+    "gp": 3610,
+    "culture": "Highland",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of the last titan",
+    "gp": 1044,
+    "culture": "Imperial",
+    "era": "modern",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Inlaid Music Box of a coronation",
+    "gp": 2007,
+    "culture": "Coastal",
+    "era": "high empire",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of a heroic duel",
+    "gp": 2870,
+    "culture": "Local",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Lacquered Screen of the moon throne",
+    "gp": 10946,
+    "culture": "Jungle",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of the founding treaty",
+    "gp": 2503,
+    "culture": "Local",
+    "era": "mythic age",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Inlaid Music Box of the first snowfall",
+    "gp": 4803,
+    "culture": "Elven",
+    "era": "early kingdom",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silk Banner of a coronation",
+    "gp": 3826,
+    "culture": "Jungle",
+    "era": "late dynasty",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silk Banner of a coronation",
+    "gp": 213,
+    "culture": "Underworld",
+    "era": "interregnum",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silk Banner of a comet's passage",
+    "gp": 1432,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silk Banner of a sea battle",
+    "gp": 3904,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Ceremonial Mask of a burning city",
+    "gp": 725,
+    "culture": "Desert",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Tapestry of a heroic duel",
+    "gp": 5773,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Oil Painting of the star garden",
+    "gp": 5154,
+    "culture": "Coastal",
+    "era": "interregnum",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the harvest rite",
+    "gp": 1721,
+    "culture": "Elven",
+    "era": "late dynasty",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ceremonial Mask of a coronation",
+    "gp": 1076,
+    "culture": "Coastal",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ivory Chess Set of the founding treaty",
+    "gp": 2337,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Bronze Statue of a burning city",
+    "gp": 6090,
+    "culture": "Local",
+    "era": "pre-ruin",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Illuminated Codex of a sea battle",
+    "gp": 2633,
+    "culture": "Highland",
+    "era": "pre-ruin",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Obsidian Mirror of the harvest rite",
+    "gp": 2123,
+    "culture": "Steppe",
+    "era": "interregnum",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Marble Bust of a crowned serpent",
+    "gp": 2488,
+    "culture": "Jungle",
+    "era": "pre-ruin",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Lacquered Screen of the moon throne",
+    "gp": 9248,
+    "culture": "Highland",
+    "era": "mythic age",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of the harvest rite",
+    "gp": 2177,
+    "culture": "Highland",
+    "era": "early kingdom",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of a forgotten saint",
+    "gp": 2390,
+    "culture": "Highland",
+    "era": "interregnum",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Carved Reliquary of a sea battle",
+    "gp": 4546,
+    "culture": "Steppe",
+    "era": "mythic age",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Silver Icon of the first snowfall",
+    "gp": 2866,
+    "culture": "Dwarven",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Ivory Chess Set of a crowned serpent",
+    "gp": 605,
+    "culture": "Highland",
+    "era": "early kingdom",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of the seven gates",
+    "gp": 622,
+    "culture": "Desert",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Lacquered Screen of the star garden",
+    "gp": 4419,
+    "culture": "Imperial",
+    "era": "interregnum",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Tapestry of the founding treaty",
+    "gp": 7191,
+    "culture": "Highland",
+    "era": "modern",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silk Banner of a coronation",
+    "gp": 1993,
+    "culture": "Coastal",
+    "era": "late dynasty",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of a burning city",
+    "gp": 5405,
+    "culture": "Steppe",
+    "era": "early kingdom",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Engraved Astrolabe of a masked festival",
+    "gp": 3192,
+    "culture": "Highland",
+    "era": "late dynasty",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of the seven gates",
+    "gp": 811,
+    "culture": "Highland",
+    "era": "late dynasty",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Engraved Astrolabe of a heroic duel",
+    "gp": 128,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Jewelled Goblet of the star garden",
+    "gp": 3182,
+    "culture": "Imperial",
+    "era": "early kingdom",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of the first snowfall",
+    "gp": 2408,
+    "culture": "Local",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Carved Reliquary of the moon throne",
+    "gp": 6425,
+    "culture": "Imperial",
+    "era": "late dynasty",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Silver Icon of a coronation",
+    "gp": 2512,
+    "culture": "Underworld",
+    "era": "pre-ruin",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Marble Bust of a masked festival",
+    "gp": 1024,
+    "culture": "Imperial",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ivory Chess Set of a sea battle",
+    "gp": 612,
+    "culture": "Imperial",
+    "era": "mythic age",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Carved Reliquary of a heroic duel",
+    "gp": 5048,
+    "culture": "Imperial",
+    "era": "high empire",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Inlaid Music Box of the first snowfall",
+    "gp": 4370,
+    "culture": "Desert",
+    "era": "high empire",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Jewelled Goblet of the moon throne",
+    "gp": 4921,
+    "culture": "Coastal",
+    "era": "interregnum",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Tapestry of the harvest rite",
+    "gp": 5892,
+    "culture": "Highland",
+    "era": "high empire",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Lacquered Screen of a comet's passage",
+    "gp": 2694,
+    "culture": "Elven",
+    "era": "mythic age",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Marble Bust of a comet's passage",
+    "gp": 3992,
+    "culture": "Jungle",
+    "era": "modern",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Lacquered Screen of the seven gates",
+    "gp": 9380,
+    "culture": "Coastal",
+    "era": "late dynasty",
+    "detail": "The craftsmanship is superb; a single flaw looks intentional.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Marble Bust of the harvest rite",
+    "gp": 5711,
+    "culture": "Jungle",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Silver Icon of a burning city",
+    "gp": 2273,
+    "culture": "Local",
+    "era": "high empire",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Inlaid Music Box of the last titan",
+    "gp": 5055,
+    "culture": "Dwarven",
+    "era": "late dynasty",
+    "detail": "Signed with a monogram that scholars argue about.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Illuminated Codex of the star garden",
+    "gp": 1831,
+    "culture": "Desert",
+    "era": "modern",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Silk Banner of a burning city",
+    "gp": 838,
+    "culture": "Jungle",
+    "era": "late dynasty",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Lacquered Screen of the seven gates",
+    "gp": 4171,
+    "culture": "Desert",
+    "era": "early kingdom",
+    "detail": "It is unmistakably associated with a scandalous historical figure.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Jewelled Goblet of a comet's passage",
+    "gp": 3018,
+    "culture": "Steppe",
+    "era": "interregnum",
+    "detail": "If viewed from an angle, a second scene appears in the shadows.",
+    "bulk_lbs": 8.0
+  },
+  {
+    "name": "Illuminated Codex of a heroic duel",
+    "gp": 927,
+    "culture": "Steppe",
+    "era": "late dynasty",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Ceremonial Mask of a coronation",
+    "gp": 1755,
+    "culture": "Elven",
+    "era": "modern",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Jewelled Goblet of the last titan",
+    "gp": 4859,
+    "culture": "Desert",
+    "era": "late dynasty",
+    "detail": "The back is stamped with a customs seal from a distant port.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Ceremonial Mask of a masked festival",
+    "gp": 1002,
+    "culture": "Jungle",
+    "era": "interregnum",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Bronze Statue of a burning city",
+    "gp": 8205,
+    "culture": "Jungle",
+    "era": "late dynasty",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 4.0
+  },
+  {
+    "name": "Oil Painting of a burning city",
+    "gp": 1296,
+    "culture": "Elven",
+    "era": "interregnum",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Jewelled Goblet of the star garden",
+    "gp": 352,
+    "culture": "Local",
+    "era": "mythic age",
+    "detail": "Contains hidden compartments for letters or poison vials.",
+    "bulk_lbs": 1.0
+  },
+  {
+    "name": "Lacquered Screen of the star garden",
+    "gp": 2502,
+    "culture": "Dwarven",
+    "era": "pre-ruin",
+    "detail": "Repairs suggest it survived a fire, flood, or siege.",
+    "bulk_lbs": 2.0
+  },
+  {
+    "name": "Tapestry of the seven gates",
+    "gp": 3833,
+    "culture": "Steppe",
+    "era": "modern",
+    "detail": "Rumored to be a counterfeit… but the materials are genuine.",
+    "bulk_lbs": 8.0
+  }
+]
