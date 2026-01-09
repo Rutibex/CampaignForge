@@ -1,0 +1,62 @@
+[
+  {
+    "axis": "Hungry",
+    "desires": [
+      "witnessed betrayal",
+      "spilled royal blood",
+      "broken vows",
+      "public humiliation of the proud"
+    ],
+    "voice": [
+      "velvet whisper",
+      "needle-scratch",
+      "distant choir",
+      "childlike giggle"
+    ]
+  },
+  {
+    "axis": "Patient",
+    "desires": [
+      "lost histories",
+      "careful rituals",
+      "quiet ownership",
+      "long plans"
+    ],
+    "voice": [
+      "calm judge",
+      "old librarian",
+      "wind through reeds",
+      "stone grinding"
+    ]
+  },
+  {
+    "axis": "Wrathful",
+    "desires": [
+      "vengeance",
+      "justice without mercy",
+      "punishment of oathbreakers",
+      "burning of false idols"
+    ],
+    "voice": [
+      "iron bell",
+      "cracking ice",
+      "war-drum",
+      "sermon"
+    ]
+  },
+  {
+    "axis": "Curious",
+    "desires": [
+      "new sensations",
+      "strange bargains",
+      "taboo knowledge",
+      "first experiences"
+    ],
+    "voice": [
+      "bright chatter",
+      "page turning",
+      "curious hum",
+      "mirrored echo"
+    ]
+  }
+]
