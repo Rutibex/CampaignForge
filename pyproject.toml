@@ -1,0 +1,14 @@
+[project]
+name = "campaign-forge"
+version = "0.1.0"
+description = "A desktop GM content engine with a plugin system (PySide6)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [{ name = "Michael Robinson" }]
+
+[tool.ruff]
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
