@@ -1,0 +1,1 @@
+# cavernmap plugin package
