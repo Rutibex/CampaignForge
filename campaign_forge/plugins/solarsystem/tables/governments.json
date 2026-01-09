@@ -1,0 +1,47 @@
+[
+  {
+    "key": "0",
+    "name": "None / Family",
+    "hook": "No law but what your crew can enforce."
+  },
+  {
+    "key": "1",
+    "name": "Company Rule",
+    "hook": "HR is armed."
+  },
+  {
+    "key": "2",
+    "name": "Participatory Council",
+    "hook": "Meetings run longer than wars."
+  },
+  {
+    "key": "3",
+    "name": "Theocracy",
+    "hook": "Sin is a measurable pollutant."
+  },
+  {
+    "key": "4",
+    "name": "Military Government",
+    "hook": "Curfew by orbital mechanics."
+  },
+  {
+    "key": "5",
+    "name": "Bureaucratic State",
+    "hook": "Form 19-C authorizes breathing."
+  },
+  {
+    "key": "6",
+    "name": "Feudal",
+    "hook": "Air is owned; you rent your lungs."
+  },
+  {
+    "key": "7",
+    "name": "AI Administration",
+    "hook": "The algorithm knows what you meant."
+  },
+  {
+    "key": "8",
+    "name": "Rebel Coalition",
+    "hook": "Unity is a temporary miracle."
+  }
+]

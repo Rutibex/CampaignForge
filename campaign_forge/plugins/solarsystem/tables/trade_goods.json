@@ -1,0 +1,72 @@
+[
+  {
+    "key": "water",
+    "name": "Water / Ice",
+    "notes": "The universal currency of space."
+  },
+  {
+    "key": "fuel",
+    "name": "Refined Fuel",
+    "notes": "Ships drink it; wars start over it."
+  },
+  {
+    "key": "rare_metals",
+    "name": "Rare Metals",
+    "notes": "Catalysts, reactors, jewelry, and leverage."
+  },
+  {
+    "key": "organics",
+    "name": "Organics",
+    "notes": "Food, pharmaceuticals, living materials."
+  },
+  {
+    "key": "data",
+    "name": "Data / Archives",
+    "notes": "Maps, patents, blackmail, pre-fall code."
+  },
+  {
+    "key": "luxury",
+    "name": "Luxury Goods",
+    "notes": "Status, art, intoxicants, sensations."
+  },
+  {
+    "key": "weapons",
+    "name": "Weapons",
+    "notes": "Illegal somewhere; profitable everywhere."
+  },
+  {
+    "key": "relics",
+    "name": "Precursor Relics",
+    "notes": "Best not kept in the same room as curiosity."
+  },
+  {
+    "key": "isotopes",
+    "name": "Industrial Isotopes",
+    "notes": "Reactor feedstock, medical imaging, and quiet leverage."
+  },
+  {
+    "key": "biogels",
+    "name": "Bio-Gels",
+    "notes": "Food, medicine, construction \u2014 all grown, all regulated."
+  },
+  {
+    "key": "shipyard",
+    "name": "Shipyard Services",
+    "notes": "Refit slots are booked years ahead; bribery accelerates."
+  },
+  {
+    "key": "pilgrims",
+    "name": "Pilgrimage Traffic",
+    "notes": "A commodity of bodies and belief."
+  },
+  {
+    "key": "slaves",
+    "name": "Indenture Contracts",
+    "notes": "Illegal on paper; ubiquitous in practice."
+  },
+  {
+    "key": "artifacts",
+    "name": "Exotic Artifacts",
+    "notes": "Sometimes valuable, sometimes contagious."
+  }
+]

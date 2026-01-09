@@ -1,0 +1,86 @@
+[
+  {
+    "key": "lava",
+    "name": "Lava World",
+    "band": "inner",
+    "life": "none",
+    "desc": "Molten seas, ash skies, industrial hellscapes, temple-forges."
+  },
+  {
+    "key": "barren",
+    "name": "Barren Rock",
+    "band": "inner",
+    "life": "none",
+    "desc": "Cratered stone, thin air, mining claims and radio telescopes."
+  },
+  {
+    "key": "desert",
+    "name": "Dry World",
+    "band": "hz",
+    "life": "possible",
+    "desc": "Cold deserts, dust seas, canyon cities, hidden aquifers."
+  },
+  {
+    "key": "garden",
+    "name": "Garden World",
+    "band": "hz",
+    "life": "likely",
+    "desc": "Oceans and continents; the obvious jewel that everyone wants."
+  },
+  {
+    "key": "ocean",
+    "name": "Ocean World",
+    "band": "hz",
+    "life": "likely",
+    "desc": "Endless seas; floating nations; deep horrors; pressure vaults."
+  },
+  {
+    "key": "swamp",
+    "name": "Swamp World",
+    "band": "hz",
+    "life": "likely",
+    "desc": "Thick air, fungal forests, disease gods, amphibious empires."
+  },
+  {
+    "key": "ice",
+    "name": "Ice World",
+    "band": "outer",
+    "life": "possible",
+    "desc": "Glacier crust, subsurface oceans, cryo-ruins, comet harvesters."
+  },
+  {
+    "key": "gas_giant",
+    "name": "Gas Giant",
+    "band": "outer",
+    "life": "rare",
+    "desc": "Storm bands and gravity; moons matter more than the planet."
+  },
+  {
+    "key": "super_earth",
+    "name": "Super-Earth",
+    "band": "hz",
+    "life": "possible",
+    "desc": "High gravity; towering mountains; dense atmospheres; pressure states."
+  },
+  {
+    "key": "tidal",
+    "name": "Tidally Locked World",
+    "band": "hz",
+    "life": "possible",
+    "desc": "Permanent day/night; twilight ring civilizations; migratory ecologies."
+  },
+  {
+    "key": "ringworld",
+    "name": "Ringworld (Artificial)",
+    "band": "any",
+    "life": "engineered",
+    "desc": "A band around the star; politics measured in orbital degrees."
+  },
+  {
+    "key": "dyson",
+    "name": "Dyson Swarm (Artificial)",
+    "band": "any",
+    "life": "engineered",
+    "desc": "A million habitats; a million rival doctrines."
+  }
+]

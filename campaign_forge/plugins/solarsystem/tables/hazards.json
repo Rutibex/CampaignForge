@@ -1,0 +1,67 @@
+[
+  {
+    "key": "radiation",
+    "name": "Radiation Belts",
+    "effect": "Unshielded exposure causes sickness; electronics fail."
+  },
+  {
+    "key": "storms",
+    "name": "Superstorms",
+    "effect": "Navigation penalties; surface operations risky."
+  },
+  {
+    "key": "quakes",
+    "name": "Tectonic Violence",
+    "effect": "Collapsed tunnels; changing maps; sudden vents."
+  },
+  {
+    "key": "spores",
+    "name": "Aggressive Spores",
+    "effect": "Filters clog; infections; hallucinations."
+  },
+  {
+    "key": "nanofog",
+    "name": "Nanofog",
+    "effect": "Gray mist that eats metals and memories."
+  },
+  {
+    "key": "pirates",
+    "name": "Pirate Corridor",
+    "effect": "Ambushes; false beacons; ransom markets."
+  },
+  {
+    "key": "ruins",
+    "name": "Active Ruins",
+    "effect": "Automated defenses; impossible geometry; old laws."
+  },
+  {
+    "key": "micrometeors",
+    "name": "Micrometeor Storms",
+    "effect": "Hull pitting; comms noise; emergency patchwork."
+  },
+  {
+    "key": "ion_shear",
+    "name": "Ion Shear",
+    "effect": "Jump interference; sensor ghosts; fried drones."
+  },
+  {
+    "key": "biohazard",
+    "name": "Quarantine Zone",
+    "effect": "Automated interdiction; strict protocols; panic markets."
+  },
+  {
+    "key": "cult_signal",
+    "name": "Cult Signal",
+    "effect": "Broadcast induces obsession; ships alter course 'voluntarily'."
+  },
+  {
+    "key": "gravity_reef",
+    "name": "Gravity Reef",
+    "effect": "Non-intuitive tides; slingshot accidents; broken orbits."
+  },
+  {
+    "key": "minefield",
+    "name": "Old Minefield",
+    "effect": "Silent contact mines; salvage bait; legal disputes."
+  }
+]

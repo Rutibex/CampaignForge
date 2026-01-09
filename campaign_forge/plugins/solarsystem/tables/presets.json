@@ -1,0 +1,27 @@
+[
+  {
+    "name": "The Quiet Jewel",
+    "seed_hint": 1337,
+    "notes": "Single G star; one habitable world; sparse settlements; easy onboarding."
+  },
+  {
+    "name": "Red Dwarf Twilight",
+    "seed_hint": 777,
+    "notes": "M star; tidally locked habitable world; strange biospheres and cults."
+  },
+  {
+    "name": "Graveyard Sun",
+    "seed_hint": 404,
+    "notes": "White dwarf; ruins; habitats; salvage economy; high hazards."
+  },
+  {
+    "name": "Three Suns, One War",
+    "seed_hint": 9001,
+    "notes": "Trinary; contested trade lanes; pirates; faction clocks."
+  },
+  {
+    "name": "Ocean of Knives",
+    "seed_hint": 2121,
+    "notes": "Ocean world; deep horrors; floating city-states; biotech."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "code": "A",
+    "name": "A-type (white)",
+    "luminosity": 16,
+    "hz_inner": 2.0,
+    "hz_outer": 3.6,
+    "notes": "Bright, short-lived; good for ancient ruins, bad for stability."
+  },
+  {
+    "code": "F",
+    "name": "F-type (yellow-white)",
+    "luminosity": 4,
+    "hz_inner": 1.4,
+    "hz_outer": 2.4,
+    "notes": "Warm, stable enough; good 'space opera' suns."
+  },
+  {
+    "code": "G",
+    "name": "G-type (yellow)",
+    "luminosity": 1,
+    "hz_inner": 0.95,
+    "hz_outer": 1.7,
+    "notes": "Gold standard. Familiar climates, lots of room for variety."
+  },
+  {
+    "code": "K",
+    "name": "K-type (orange)",
+    "luminosity": 0.4,
+    "hz_inner": 0.6,
+    "hz_outer": 1.1,
+    "notes": "Long-lived and steady; excellent for old empires."
+  },
+  {
+    "code": "M",
+    "name": "M-type (red dwarf)",
+    "luminosity": 0.04,
+    "hz_inner": 0.12,
+    "hz_outer": 0.22,
+    "notes": "Close habitable zone; tides, flares, and weird day/night regimes."
+  },
+  {
+    "code": "WD",
+    "name": "White Dwarf",
+    "luminosity": 0.01,
+    "hz_inner": 0.05,
+    "hz_outer": 0.09,
+    "notes": "Afterlife sun. Great for relic systems and desperate habitats."
+  },
+  {
+    "code": "NS",
+    "name": "Neutron Star",
+    "luminosity": 0.001,
+    "hz_inner": 0.02,
+    "hz_outer": 0.03,
+    "notes": "High radiation; life is unlikely without shielding or tech."
+  }
+]

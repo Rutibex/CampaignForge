@@ -1,0 +1,22 @@
+[
+  {
+    "key": "microbial",
+    "name": "Microbial",
+    "summary": "Microbes, mats, spores; subtle but dangerous biochemistry."
+  },
+  {
+    "key": "complex",
+    "name": "Complex",
+    "summary": "Plants/animals/fungi; food webs, seasons, extinctions."
+  },
+  {
+    "key": "exotic",
+    "name": "Exotic",
+    "summary": "Non-water solvents, silicon life, electromagnetic colonies, etc."
+  },
+  {
+    "key": "engineered",
+    "name": "Engineered",
+    "summary": "Terraform biota, uplift projects, bio-weapons, gardeners."
+  }
+]

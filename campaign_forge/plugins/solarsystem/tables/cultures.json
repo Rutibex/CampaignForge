@@ -1,0 +1,137 @@
+[
+  {
+    "key": "frontier",
+    "name": "Frontier Pragmatists",
+    "tags": [
+      "Frontier",
+      "Survival"
+    ],
+    "vibe": "Short on romance, long on duct tape."
+  },
+  {
+    "key": "merchant",
+    "name": "Ledger Guilds",
+    "tags": [
+      "Trade",
+      "Contracts"
+    ],
+    "vibe": "Everything has a price \u2014 including loyalty."
+  },
+  {
+    "key": "theocracy",
+    "name": "Starlit Theocracy",
+    "tags": [
+      "Faith",
+      "Ritual"
+    ],
+    "vibe": "Pilgrims in pressure suits and saints in vacuum."
+  },
+  {
+    "key": "military",
+    "name": "Orbital Junta",
+    "tags": [
+      "Security",
+      "Order"
+    ],
+    "vibe": "You can breathe, so you can obey."
+  },
+  {
+    "key": "archive",
+    "name": "Archivist Cities",
+    "tags": [
+      "Knowledge",
+      "Control"
+    ],
+    "vibe": "They own the past, so they own you."
+  },
+  {
+    "key": "anarch",
+    "name": "Free Habitats",
+    "tags": [
+      "Mutual Aid",
+      "Chaos"
+    ],
+    "vibe": "No rulers, just airlocks and consequences."
+  },
+  {
+    "key": "precursor",
+    "name": "Precursor Custodians",
+    "tags": [
+      "Mystery",
+      "Ancient"
+    ],
+    "vibe": "They claim stewardship of things older than language."
+  },
+  {
+    "key": "monastic",
+    "name": "Vacuum Monasteries",
+    "tags": [
+      "Faith",
+      "Discipline"
+    ],
+    "vibe": "Silence is oxygen; vows are pressure seals."
+  },
+  {
+    "key": "clone_dynasty",
+    "name": "Clone Dynasties",
+    "tags": [
+      "Lineage",
+      "Control"
+    ],
+    "vibe": "Same faces, new centuries, old grudges."
+  },
+  {
+    "key": "reef",
+    "name": "Orbital Reefers",
+    "tags": [
+      "Habitat",
+      "Salvage"
+    ],
+    "vibe": "They grow homes like coral and harvest wrecks like kelp."
+  },
+  {
+    "key": "nomads",
+    "name": "Comet Nomads",
+    "tags": [
+      "Nomad",
+      "Mystic"
+    ],
+    "vibe": "They ride dirty ice and call it destiny."
+  },
+  {
+    "key": "syndicate",
+    "name": "Syndicate Port",
+    "tags": [
+      "Crime",
+      "Trade"
+    ],
+    "vibe": "Customs is a negotiation; justice is a fee."
+  },
+  {
+    "key": "utopian",
+    "name": "Glass Utopia",
+    "tags": [
+      "Idealism",
+      "Fragile"
+    ],
+    "vibe": "Perfect lawns under domes; perfect lies underneath."
+  },
+  {
+    "key": "necropolis",
+    "name": "Necropolis Operators",
+    "tags": [
+      "Mortality",
+      "Industry"
+    ],
+    "vibe": "Graveyards in orbit; funerals by mass driver."
+  },
+  {
+    "key": "choral",
+    "name": "Choral Democracies",
+    "tags": [
+      "Consensus",
+      "Weird"
+    ],
+    "vibe": "Votes are sung; dissent becomes harmony or exile."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "key": "missing_probe",
+    "text": "A survey probe returned with footage of a structure that should not exist \u2014 then went silent."
+  },
+  {
+    "key": "mutiny",
+    "text": "A station mutiny has sealed the docks; the only way in is through maintenance crawls."
+  },
+  {
+    "key": "cult",
+    "text": "A hymn transmitted from deep space is rewriting personalities on multiple habitats."
+  },
+  {
+    "key": "war_debt",
+    "text": "A local government is selling relic claims to pay war debts \u2014 maps may be forged."
+  },
+  {
+    "key": "ghost_lane",
+    "text": "A trade lane appears safe on charts but is haunted by 'insurance' pirates."
+  },
+  {
+    "key": "terraform",
+    "text": "Terraforming mirrors are drifting; if they collide, the sky becomes a weapon."
+  },
+  {
+    "key": "plague",
+    "text": "A harmless microbe on one world is lethal on another. Quarantine politics turn violent."
+  },
+  {
+    "key": "ai_judges",
+    "text": "An ancient legal AI has reactivated and is issuing binding judgments via drones."
+  },
+  {
+    "key": "eclipse",
+    "text": "A perfect eclipse reveals signals etched into the star's corona \u2014 only for minutes."
+  },
+  {
+    "key": "rift",
+    "text": "A navigation rift offers impossible travel times, but something counts the ships."
+  },
+  {
+    "key": "election",
+    "text": "A democratic habitat's election is being hacked by physical sabotage \u2014 the ballots are air."
+  },
+  {
+    "key": "salvage_war",
+    "text": "Two factions claim the same derelict megaship; boarding teams are already inside."
+  }
+]
